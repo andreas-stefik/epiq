@@ -461,8 +461,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "23": {
                     "Class": "Drawable", 
@@ -478,8 +482,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "24": {
                     "Class": "Drawable", 
@@ -495,8 +503,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "25": {
                     "Class": "Drawable", 
@@ -512,8 +524,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "26": {
                     "Class": "Drawable", 
@@ -529,8 +545,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "27": {
                     "Class": "Drawable", 
@@ -546,8 +566,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "28": {
                     "Class": "Drawable", 
@@ -563,8 +587,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "29": {
                     "Class": "Drawable", 
@@ -580,8 +608,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "30": {
                     "Class": "Drawable", 
@@ -597,8 +629,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "31": {
                     "Class": "Drawable", 
@@ -614,8 +650,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "32": {
                     "Class": "Drawable", 
@@ -631,8 +671,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.3333333333333333, 
                     "Texture Region Bottom": 0.4444444444444444, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "33": {
                     "Class": "Drawable", 
@@ -648,8 +692,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "34": {
                     "Class": "Drawable", 
@@ -665,8 +713,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "35": {
                     "Class": "Drawable", 
@@ -682,8 +734,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "36": {
                     "Class": "Drawable", 
@@ -699,8 +755,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "37": {
                     "Class": "Drawable", 
@@ -716,8 +776,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "38": {
                     "Class": "Drawable", 
@@ -733,8 +797,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "39": {
                     "Class": "Drawable", 
@@ -750,8 +818,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "40": {
                     "Class": "Drawable", 
@@ -767,8 +839,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "41": {
                     "Class": "Drawable", 
@@ -784,8 +860,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "42": {
                     "Class": "Drawable", 
@@ -801,8 +881,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "43": {
                     "Class": "Drawable", 
@@ -816,10 +900,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "44": {
                     "Class": "Drawable", 
@@ -833,10 +921,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "45": {
                     "Class": "Drawable", 
@@ -850,10 +942,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "46": {
                     "Class": "Drawable", 
@@ -867,10 +963,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "47": {
                     "Class": "Drawable", 
@@ -884,10 +984,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "48": {
                     "Class": "Drawable", 
@@ -901,10 +1005,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "49": {
                     "Class": "Drawable", 
@@ -920,9 +1028,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "50": {
                     "Class": "Drawable", 
@@ -938,9 +1049,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "51": {
                     "Class": "Drawable", 
@@ -956,9 +1070,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "52": {
                     "Class": "Drawable", 
@@ -974,9 +1091,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "53": {
                     "Class": "Drawable", 
@@ -992,9 +1112,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "54": {
                     "Class": "Drawable", 
@@ -1010,9 +1133,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "55": {
                     "Class": "Drawable", 
@@ -1028,9 +1154,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "56": {
                     "Class": "Drawable", 
@@ -1046,9 +1175,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "57": {
                     "Class": "Drawable", 
@@ -1064,9 +1196,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "58": {
                     "Class": "Drawable", 
@@ -1082,9 +1217,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "59": {
                     "Class": "Drawable", 
@@ -1100,9 +1238,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "60": {
                     "Class": "Drawable", 
@@ -1118,9 +1259,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "61": {
                     "Class": "Drawable", 
@@ -1136,9 +1280,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "62": {
                     "Class": "Drawable", 
@@ -1154,9 +1301,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "63": {
                     "Class": "Drawable", 
@@ -1170,10 +1320,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "64": {
                     "Class": "Drawable", 
@@ -1187,10 +1341,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "65": {
                     "Class": "Drawable", 
@@ -1204,10 +1362,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "66": {
                     "Class": "Drawable", 
@@ -1221,10 +1383,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "67": {
                     "Class": "Drawable", 
@@ -1238,10 +1404,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "68": {
                     "Class": "Drawable", 
@@ -1255,10 +1425,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "69": {
                     "Class": "Drawable", 
@@ -1272,10 +1446,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "70": {
                     "Class": "Drawable", 
@@ -1291,8 +1469,12 @@
                     "Texture Region Right": 0.6989079563182528, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "71": {
                     "Class": "Drawable", 
@@ -1308,8 +1490,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "72": {
                     "Class": "Drawable", 
@@ -1325,8 +1511,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "73": {
                     "Class": "Drawable", 
@@ -1342,8 +1532,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "74": {
                     "Class": "Drawable", 
@@ -1359,8 +1553,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "75": {
                     "Class": "Drawable", 
@@ -1376,8 +1574,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "76": {
                     "Class": "Drawable", 
@@ -1393,8 +1595,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "77": {
                     "Class": "Drawable", 
@@ -1410,8 +1616,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "78": {
                     "Class": "Drawable", 
@@ -1427,8 +1637,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "79": {
                     "Class": "Drawable", 
@@ -1444,8 +1658,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "80": {
                     "Class": "Drawable", 
@@ -1461,8 +1679,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "81": {
                     "Class": "Drawable", 
@@ -1478,8 +1700,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "82": {
                     "Class": "Drawable", 
@@ -1495,8 +1721,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "83": {
                     "Class": "Drawable", 
@@ -1512,8 +1742,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "84": {
                     "Class": "Drawable", 
@@ -1529,8 +1763,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "85": {
                     "Class": "Drawable", 
@@ -1546,8 +1784,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "86": {
                     "Class": "Drawable", 
@@ -1563,8 +1805,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "87": {
                     "Class": "Drawable", 
@@ -1580,8 +1826,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "88": {
                     "Class": "Drawable", 
@@ -1597,8 +1847,12 @@
                     "Texture Region Right": 0.6489859594383776, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "89": {
                     "Class": "Drawable", 
@@ -1614,8 +1868,12 @@
                     "Texture Region Right": 0.6489859594383776, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "90": {
                     "Class": "Drawable", 
@@ -1631,8 +1889,12 @@
                     "Texture Region Right": 0.6489859594383776, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "91": {
                     "Class": "Drawable", 
@@ -1648,8 +1910,12 @@
                     "Texture Region Right": 0.6489859594383776, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "92": {
                     "Class": "Drawable", 
@@ -1665,8 +1931,12 @@
                     "Texture Region Right": 0.6489859594383776, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "93": {
                     "Class": "Drawable", 
@@ -1682,9 +1952,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "94": {
                     "Class": "Drawable", 
@@ -1700,9 +1973,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "95": {
                     "Class": "Drawable", 
@@ -1718,9 +1994,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "96": {
                     "Class": "Drawable", 
@@ -1736,9 +2015,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "97": {
                     "Class": "Drawable", 
@@ -1754,9 +2036,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "98": {
                     "Class": "Drawable", 
@@ -1772,9 +2057,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "99": {
                     "Class": "Drawable", 
@@ -1790,9 +2078,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "100": {
                     "Class": "Drawable", 
@@ -1808,9 +2099,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "101": {
                     "Class": "Drawable", 
@@ -1826,9 +2120,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "102": {
                     "Class": "Drawable", 
@@ -1844,9 +2141,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "103": {
                     "Class": "Drawable", 
@@ -1862,9 +2162,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "104": {
                     "Class": "Drawable", 
@@ -1880,9 +2183,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "105": {
                     "Class": "Drawable", 
@@ -1898,9 +2204,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "106": {
                     "Class": "Drawable", 
@@ -1916,9 +2225,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "107": {
                     "Class": "Drawable", 
@@ -1934,9 +2246,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "108": {
                     "Class": "Drawable", 
@@ -1952,9 +2267,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "109": {
                     "Class": "Drawable", 
@@ -1970,9 +2288,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "110": {
                     "Class": "Drawable", 
@@ -1988,9 +2309,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "111": {
                     "Class": "Drawable", 
@@ -2006,9 +2330,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "112": {
                     "Class": "Drawable", 
@@ -2024,9 +2351,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "113": {
                     "Class": "Drawable", 
@@ -2042,9 +2372,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "114": {
                     "Class": "Drawable", 
@@ -2060,9 +2393,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "115": {
                     "Class": "Drawable", 
@@ -2078,9 +2414,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "116": {
                     "Class": "Drawable", 
@@ -2096,9 +2435,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "117": {
                     "Class": "Drawable", 
@@ -2114,9 +2456,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "118": {
                     "Class": "Drawable", 
@@ -2132,9 +2477,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "119": {
                     "Class": "Drawable", 
@@ -2150,9 +2498,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "120": {
                     "Class": "Drawable", 
@@ -2168,9 +2519,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "121": {
                     "Class": "Drawable", 
@@ -2186,9 +2540,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "122": {
                     "Class": "Drawable", 
@@ -2204,9 +2561,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "123": {
                     "Class": "Drawable", 
@@ -2222,9 +2582,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "124": {
                     "Class": "Drawable", 
@@ -2240,9 +2603,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "125": {
                     "Class": "Drawable", 
@@ -2258,9 +2624,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "126": {
                     "Class": "Drawable", 
@@ -2276,9 +2645,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "127": {
                     "Class": "Drawable", 
@@ -2294,9 +2666,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "128": {
                     "Class": "Drawable", 
@@ -2312,9 +2687,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "129": {
                     "Class": "Drawable", 
@@ -2330,9 +2708,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "130": {
                     "Class": "Drawable", 
@@ -2348,9 +2729,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "131": {
                     "Class": "Drawable", 
@@ -2366,9 +2750,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "132": {
                     "Class": "Drawable", 
@@ -2384,9 +2771,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "133": {
                     "Class": "Drawable", 
@@ -2402,9 +2792,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "134": {
                     "Class": "Drawable", 
@@ -2420,9 +2813,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "135": {
                     "Class": "Drawable", 
@@ -2438,9 +2834,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "136": {
                     "Class": "Drawable", 
@@ -2456,9 +2855,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "137": {
                     "Class": "Drawable", 
@@ -2474,9 +2876,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "138": {
                     "Class": "Drawable", 
@@ -2492,9 +2897,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "139": {
                     "Class": "Drawable", 
@@ -2510,9 +2918,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "140": {
                     "Class": "Drawable", 
@@ -2528,9 +2939,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "141": {
                     "Class": "Drawable", 
@@ -2546,9 +2960,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "142": {
                     "Class": "Drawable", 
@@ -2564,9 +2981,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "143": {
                     "Class": "Drawable", 
@@ -2582,9 +3002,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "144": {
                     "Class": "Drawable", 
@@ -2600,9 +3023,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "145": {
                     "Class": "Drawable", 
@@ -2618,9 +3044,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "146": {
                     "Class": "Drawable", 
@@ -2636,9 +3065,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "147": {
                     "Class": "Drawable", 
@@ -2654,9 +3086,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "148": {
                     "Class": "Drawable", 
@@ -2672,9 +3107,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "149": {
                     "Class": "Drawable", 
@@ -2690,9 +3128,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "150": {
                     "Class": "Drawable", 
@@ -2708,9 +3149,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "151": {
                     "Class": "Drawable", 
@@ -2726,9 +3170,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "152": {
                     "Class": "Drawable", 
@@ -2744,9 +3191,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "153": {
                     "Class": "Drawable", 
@@ -2762,9 +3212,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "154": {
                     "Class": "Drawable", 
@@ -2780,9 +3233,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "155": {
                     "Class": "Drawable", 
@@ -2798,9 +3254,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "156": {
                     "Class": "Drawable", 
@@ -2816,9 +3275,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "157": {
                     "Class": "Drawable", 
@@ -2834,9 +3296,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "158": {
                     "Class": "Drawable", 
@@ -2852,9 +3317,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "159": {
                     "Class": "Drawable", 
@@ -2868,10 +3336,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "160": {
                     "Class": "Drawable", 
@@ -2885,10 +3357,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "161": {
                     "Class": "Drawable", 
@@ -2902,10 +3378,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "162": {
                     "Class": "Drawable", 
@@ -2919,10 +3399,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "163": {
                     "Class": "Drawable", 
@@ -2936,10 +3420,14 @@
                     "File": "Resources/Tilesets/Nature Summer.png", 
                     "Texture Region Left": 0.748829953198128, 
                     "Texture Region Right": 0.7987519500780031, 
-                    "Texture Region Top": 0.7777777777777777, 
+                    "Texture Region Top": 0.7743055555555555, 
                     "Texture Region Bottom": 0.8888888888888888, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "164": {
                     "Class": "Drawable", 
@@ -2955,8 +3443,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "165": {
                     "Class": "Drawable", 
@@ -2972,8 +3464,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "166": {
                     "Class": "Drawable", 
@@ -2989,8 +3485,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "167": {
                     "Class": "Drawable", 
@@ -3006,8 +3506,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "168": {
                     "Class": "Drawable", 
@@ -3023,8 +3527,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "169": {
                     "Class": "Drawable", 
@@ -3040,8 +3548,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "170": {
                     "Class": "Drawable", 
@@ -3057,8 +3569,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "171": {
                     "Class": "Drawable", 
@@ -3074,8 +3590,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "172": {
                     "Class": "Drawable", 
@@ -3091,8 +3611,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "173": {
                     "Class": "Drawable", 
@@ -3108,8 +3632,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "174": {
                     "Class": "Drawable", 
@@ -3125,9 +3653,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "175": {
                     "Class": "Drawable", 
@@ -3143,9 +3674,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "176": {
                     "Class": "Drawable", 
@@ -3161,9 +3695,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "177": {
                     "Class": "Drawable", 
@@ -3179,9 +3716,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "178": {
                     "Class": "Drawable", 
@@ -3197,9 +3737,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "179": {
                     "Class": "Drawable", 
@@ -3215,9 +3758,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "180": {
                     "Class": "Drawable", 
@@ -3233,9 +3779,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "181": {
                     "Class": "Drawable", 
@@ -3251,9 +3800,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "182": {
                     "Class": "Drawable", 
@@ -3269,9 +3821,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "183": {
                     "Class": "Drawable", 
@@ -3287,9 +3842,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "184": {
                     "Class": "Drawable", 
@@ -3305,9 +3863,12 @@
                     "Texture Region Right": 0.7987519500780031, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "185": {
                     "Class": "Drawable", 
@@ -3323,9 +3884,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.0, 
                     "Texture Region Bottom": 0.1111111111111111, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "186": {
                     "Class": "Drawable", 
@@ -3341,9 +3905,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "187": {
                     "Class": "Drawable", 
@@ -3359,9 +3926,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "188": {
                     "Class": "Drawable", 
@@ -3377,9 +3947,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "189": {
                     "Class": "Drawable", 
@@ -3395,9 +3968,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "190": {
                     "Class": "Drawable", 
@@ -3413,9 +3989,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "191": {
                     "Class": "Drawable", 
@@ -3431,9 +4010,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "192": {
                     "Class": "Drawable", 
@@ -3449,9 +4031,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "193": {
                     "Class": "Drawable", 
@@ -3467,9 +4052,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "194": {
                     "Class": "Drawable", 
@@ -3485,9 +4073,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "195": {
                     "Class": "Drawable", 
@@ -3503,9 +4094,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "196": {
                     "Class": "Drawable", 
@@ -3521,9 +4115,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "197": {
                     "Class": "Drawable", 
@@ -3539,9 +4136,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "198": {
                     "Class": "Drawable", 
@@ -3557,9 +4157,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "199": {
                     "Class": "Drawable", 
@@ -3575,9 +4178,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "200": {
                     "Class": "Drawable", 
@@ -3593,9 +4199,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "201": {
                     "Class": "Drawable", 
@@ -3611,9 +4220,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "202": {
                     "Class": "Drawable", 
@@ -3629,9 +4241,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "203": {
                     "Class": "Drawable", 
@@ -3647,9 +4262,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "204": {
                     "Class": "Drawable", 
@@ -3665,9 +4283,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "205": {
                     "Class": "Drawable", 
@@ -3683,9 +4304,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "206": {
                     "Class": "Drawable", 
@@ -3701,9 +4325,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "207": {
                     "Class": "Drawable", 
@@ -3719,9 +4346,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "208": {
                     "Class": "Drawable", 
@@ -3737,9 +4367,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "209": {
                     "Class": "Drawable", 
@@ -3755,9 +4388,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "210": {
                     "Class": "Drawable", 
@@ -3773,9 +4409,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "211": {
                     "Class": "Drawable", 
@@ -3791,9 +4430,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "212": {
                     "Class": "Drawable", 
@@ -3809,9 +4451,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "213": {
                     "Class": "Drawable", 
@@ -3827,9 +4472,12 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "214": {
                     "Class": "Drawable", 
@@ -3845,8 +4493,12 @@
                     "Texture Region Right": 0.6989079563182528, 
                     "Texture Region Top": 0.3333333333333333, 
                     "Texture Region Bottom": 0.4444444444444444, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "215": {
                     "Class": "Drawable", 
@@ -3862,8 +4514,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "216": {
                     "Class": "Drawable", 
@@ -3879,8 +4535,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "217": {
                     "Class": "Drawable", 
@@ -3896,8 +4556,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "218": {
                     "Class": "Drawable", 
@@ -3913,8 +4577,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "219": {
                     "Class": "Drawable", 
@@ -3930,8 +4598,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "220": {
                     "Class": "Drawable", 
@@ -3947,8 +4619,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "221": {
                     "Class": "Drawable", 
@@ -3964,8 +4640,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "222": {
                     "Class": "Drawable", 
@@ -3981,8 +4661,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "223": {
                     "Class": "Drawable", 
@@ -3998,8 +4682,12 @@
                     "Texture Region Right": 0.5990639625585024, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "224": {
                     "Class": "Drawable", 
@@ -4015,9 +4703,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "225": {
                     "Class": "Drawable", 
@@ -4033,9 +4724,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "226": {
                     "Class": "Drawable", 
@@ -4051,9 +4745,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "227": {
                     "Class": "Drawable", 
@@ -4069,9 +4766,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "228": {
                     "Class": "Drawable", 
@@ -4087,9 +4787,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "229": {
                     "Class": "Drawable", 
@@ -4105,9 +4808,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "230": {
                     "Class": "Drawable", 
@@ -4123,9 +4829,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "231": {
                     "Class": "Drawable", 
@@ -4141,9 +4850,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "232": {
                     "Class": "Drawable", 
@@ -4159,9 +4871,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "233": {
                     "Class": "Drawable", 
@@ -4177,9 +4892,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "234": {
                     "Class": "Drawable", 
@@ -4195,9 +4913,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "235": {
                     "Class": "Drawable", 
@@ -4213,9 +4934,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "236": {
                     "Class": "Drawable", 
@@ -4231,9 +4955,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "237": {
                     "Class": "Drawable", 
@@ -4249,9 +4976,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "238": {
                     "Class": "Drawable", 
@@ -4267,9 +4997,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "239": {
                     "Class": "Drawable", 
@@ -4285,9 +5018,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "240": {
                     "Class": "Drawable", 
@@ -4303,9 +5039,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "241": {
                     "Class": "Drawable", 
@@ -4321,9 +5060,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "242": {
                     "Class": "Drawable", 
@@ -4339,9 +5081,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "243": {
                     "Class": "Drawable", 
@@ -4357,9 +5102,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "244": {
                     "Class": "Drawable", 
@@ -4375,9 +5123,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "245": {
                     "Class": "Drawable", 
@@ -4393,9 +5144,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "246": {
                     "Class": "Drawable", 
@@ -4411,9 +5165,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "247": {
                     "Class": "Drawable", 
@@ -4429,9 +5186,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "248": {
                     "Class": "Drawable", 
@@ -4447,9 +5207,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "249": {
                     "Class": "Drawable", 
@@ -4465,9 +5228,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "250": {
                     "Class": "Drawable", 
@@ -4483,9 +5249,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "251": {
                     "Class": "Drawable", 
@@ -4501,9 +5270,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "252": {
                     "Class": "Drawable", 
@@ -4519,9 +5291,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "253": {
                     "Class": "Drawable", 
@@ -4537,9 +5312,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "254": {
                     "Class": "Drawable", 
@@ -4555,9 +5333,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "255": {
                     "Class": "Drawable", 
@@ -4573,9 +5354,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "256": {
                     "Class": "Drawable", 
@@ -4591,9 +5375,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "257": {
                     "Class": "Drawable", 
@@ -4609,9 +5396,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "258": {
                     "Class": "Drawable", 
@@ -4627,9 +5417,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "259": {
                     "Class": "Drawable", 
@@ -4645,9 +5438,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "260": {
                     "Class": "Drawable", 
@@ -4663,9 +5459,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "261": {
                     "Class": "Drawable", 
@@ -4681,9 +5480,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "262": {
                     "Class": "Drawable", 
@@ -4699,9 +5501,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "263": {
                     "Class": "Drawable", 
@@ -4717,9 +5522,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "264": {
                     "Class": "Drawable", 
@@ -4735,9 +5543,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "265": {
                     "Class": "Drawable", 
@@ -4753,9 +5564,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "266": {
                     "Class": "Drawable", 
@@ -4771,9 +5585,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "267": {
                     "Class": "Drawable", 
@@ -4789,9 +5606,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "268": {
                     "Class": "Drawable", 
@@ -4807,9 +5627,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "269": {
                     "Class": "Drawable", 
@@ -4825,9 +5648,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "270": {
                     "Class": "Drawable", 
@@ -4843,9 +5669,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "271": {
                     "Class": "Drawable", 
@@ -4861,9 +5690,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "272": {
                     "Class": "Drawable", 
@@ -4879,9 +5711,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "273": {
                     "Class": "Drawable", 
@@ -4897,9 +5732,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "274": {
                     "Class": "Drawable", 
@@ -4915,9 +5753,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "275": {
                     "Class": "Drawable", 
@@ -4933,9 +5774,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "276": {
                     "Class": "Drawable", 
@@ -4951,9 +5795,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "277": {
                     "Class": "Drawable", 
@@ -4969,9 +5816,12 @@
                     "Texture Region Right": 0.0998439937597504, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "278": {
                     "Class": "Drawable", 
@@ -4987,8 +5837,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "279": {
                     "Class": "Drawable", 
@@ -5004,8 +5858,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "280": {
                     "Class": "Drawable", 
@@ -5021,8 +5879,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "281": {
                     "Class": "Drawable", 
@@ -5038,8 +5900,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "282": {
                     "Class": "Drawable", 
@@ -5055,8 +5921,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "283": {
                     "Class": "Drawable", 
@@ -5072,8 +5942,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "284": {
                     "Class": "Drawable", 
@@ -5089,8 +5963,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "285": {
                     "Class": "Drawable", 
@@ -5106,8 +5984,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "286": {
                     "Class": "Drawable", 
@@ -5123,8 +6005,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "287": {
                     "Class": "Drawable", 
@@ -5140,8 +6026,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "288": {
                     "Class": "Drawable", 
@@ -5157,8 +6047,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "289": {
                     "Class": "Drawable", 
@@ -5174,8 +6068,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "290": {
                     "Class": "Drawable", 
@@ -5191,8 +6089,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "291": {
                     "Class": "Drawable", 
@@ -5208,8 +6110,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "292": {
                     "Class": "Drawable", 
@@ -5225,8 +6131,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "293": {
                     "Class": "Drawable", 
@@ -5242,8 +6152,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "294": {
                     "Class": "Drawable", 
@@ -5259,8 +6173,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "295": {
                     "Class": "Drawable", 
@@ -5276,8 +6194,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "296": {
                     "Class": "Drawable", 
@@ -5293,8 +6215,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "297": {
                     "Class": "Drawable", 
@@ -5310,8 +6236,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "298": {
                     "Class": "Drawable", 
@@ -5327,8 +6257,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "299": {
                     "Class": "Drawable", 
@@ -5344,8 +6278,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "300": {
                     "Class": "Drawable", 
@@ -5361,8 +6299,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "301": {
                     "Class": "Drawable", 
@@ -5378,8 +6320,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "302": {
                     "Class": "Drawable", 
@@ -5395,8 +6341,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "303": {
                     "Class": "Drawable", 
@@ -5412,8 +6362,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "304": {
                     "Class": "Drawable", 
@@ -5429,8 +6383,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "305": {
                     "Class": "Drawable", 
@@ -5446,8 +6404,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "306": {
                     "Class": "Drawable", 
@@ -5463,8 +6425,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "307": {
                     "Class": "Drawable", 
@@ -5480,8 +6446,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "308": {
                     "Class": "Drawable", 
@@ -5497,8 +6467,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "309": {
                     "Class": "Drawable", 
@@ -5514,8 +6488,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "310": {
                     "Class": "Drawable", 
@@ -5531,8 +6509,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "311": {
                     "Class": "Drawable", 
@@ -5548,8 +6530,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "312": {
                     "Class": "Drawable", 
@@ -5565,8 +6551,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "313": {
                     "Class": "Drawable", 
@@ -5582,8 +6572,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "314": {
                     "Class": "Drawable", 
@@ -5599,8 +6593,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "315": {
                     "Class": "Drawable", 
@@ -5616,8 +6614,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "316": {
                     "Class": "Drawable", 
@@ -5633,8 +6635,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "317": {
                     "Class": "Drawable", 
@@ -5650,8 +6656,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "318": {
                     "Class": "Drawable", 
@@ -5667,8 +6677,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "319": {
                     "Class": "Drawable", 
@@ -5684,8 +6698,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "320": {
                     "Class": "Drawable", 
@@ -5701,8 +6719,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "321": {
                     "Class": "Drawable", 
@@ -5718,8 +6740,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "322": {
                     "Class": "Drawable", 
@@ -5735,8 +6761,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "323": {
                     "Class": "Drawable", 
@@ -5752,8 +6782,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "324": {
                     "Class": "Drawable", 
@@ -5769,8 +6803,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "325": {
                     "Class": "Drawable", 
@@ -5786,8 +6824,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "326": {
                     "Class": "Drawable", 
@@ -5803,8 +6845,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "327": {
                     "Class": "Drawable", 
@@ -5820,8 +6866,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "328": {
                     "Class": "Drawable", 
@@ -5837,8 +6887,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "329": {
                     "Class": "Drawable", 
@@ -5854,8 +6908,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "330": {
                     "Class": "Drawable", 
@@ -5871,8 +6929,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "331": {
                     "Class": "Drawable", 
@@ -5888,8 +6950,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "332": {
                     "Class": "Drawable", 
@@ -5905,8 +6971,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "333": {
                     "Class": "Drawable", 
@@ -5922,8 +6992,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "334": {
                     "Class": "Drawable", 
@@ -5939,8 +7013,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "335": {
                     "Class": "Drawable", 
@@ -5956,8 +7034,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "336": {
                     "Class": "Drawable", 
@@ -5973,8 +7055,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "337": {
                     "Class": "Drawable", 
@@ -5990,8 +7076,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "338": {
                     "Class": "Drawable", 
@@ -6007,8 +7097,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "339": {
                     "Class": "Drawable", 
@@ -6024,8 +7118,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "340": {
                     "Class": "Drawable", 
@@ -6041,8 +7139,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "341": {
                     "Class": "Drawable", 
@@ -6058,8 +7160,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "342": {
                     "Class": "Drawable", 
@@ -6075,8 +7181,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "343": {
                     "Class": "Drawable", 
@@ -6092,8 +7202,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "344": {
                     "Class": "Drawable", 
@@ -6109,8 +7223,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "345": {
                     "Class": "Drawable", 
@@ -6126,8 +7244,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "346": {
                     "Class": "Drawable", 
@@ -6143,8 +7265,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "347": {
                     "Class": "Drawable", 
@@ -6160,8 +7286,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "348": {
                     "Class": "Drawable", 
@@ -6177,8 +7307,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "349": {
                     "Class": "Drawable", 
@@ -6194,8 +7328,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "350": {
                     "Class": "Drawable", 
@@ -6211,8 +7349,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "351": {
                     "Class": "Drawable", 
@@ -6228,8 +7370,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "352": {
                     "Class": "Drawable", 
@@ -6245,8 +7391,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "353": {
                     "Class": "Drawable", 
@@ -6262,8 +7412,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "354": {
                     "Class": "Drawable", 
@@ -6279,8 +7433,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "355": {
                     "Class": "Drawable", 
@@ -6296,8 +7454,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "356": {
                     "Class": "Drawable", 
@@ -6313,8 +7475,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "357": {
                     "Class": "Drawable", 
@@ -6330,8 +7496,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "358": {
                     "Class": "Drawable", 
@@ -6347,8 +7517,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "359": {
                     "Class": "Drawable", 
@@ -6364,8 +7538,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "360": {
                     "Class": "Drawable", 
@@ -6381,8 +7559,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "361": {
                     "Class": "Drawable", 
@@ -6398,8 +7580,12 @@
                     "Texture Region Right": 0.5491419656786272, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "362": {
                     "Class": "Drawable", 
@@ -6415,8 +7601,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "363": {
                     "Class": "Drawable", 
@@ -6432,8 +7622,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "364": {
                     "Class": "Drawable", 
@@ -6449,8 +7643,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "365": {
                     "Class": "Drawable", 
@@ -6466,8 +7664,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "366": {
                     "Class": "Drawable", 
@@ -6483,8 +7685,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "367": {
                     "Class": "Drawable", 
@@ -6500,8 +7706,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "368": {
                     "Class": "Drawable", 
@@ -6517,8 +7727,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "369": {
                     "Class": "Drawable", 
@@ -6534,8 +7748,12 @@
                     "Texture Region Right": 0.8486739469578783, 
                     "Texture Region Top": 0.8888888888888888, 
                     "Texture Region Bottom": 1.0, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "370": {
                     "Class": "Drawable", 
@@ -6551,8 +7769,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "371": {
                     "Class": "Drawable", 
@@ -6568,8 +7790,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "372": {
                     "Class": "Drawable", 
@@ -6585,8 +7811,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "373": {
                     "Class": "Drawable", 
@@ -6602,8 +7832,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "374": {
                     "Class": "Drawable", 
@@ -6619,8 +7853,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "375": {
                     "Class": "Drawable", 
@@ -6636,8 +7874,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "376": {
                     "Class": "Drawable", 
@@ -6653,8 +7895,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "377": {
                     "Class": "Drawable", 
@@ -6670,8 +7916,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "378": {
                     "Class": "Drawable", 
@@ -6687,8 +7937,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "379": {
                     "Class": "Drawable", 
@@ -6704,8 +7958,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "380": {
                     "Class": "Drawable", 
@@ -6721,8 +7979,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "381": {
                     "Class": "Drawable", 
@@ -6738,8 +8000,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "382": {
                     "Class": "Drawable", 
@@ -6755,8 +8021,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "383": {
                     "Class": "Drawable", 
@@ -6772,8 +8042,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "384": {
                     "Class": "Drawable", 
@@ -6789,8 +8063,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "385": {
                     "Class": "Drawable", 
@@ -6806,8 +8084,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "386": {
                     "Class": "Drawable", 
@@ -6823,8 +8105,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "387": {
                     "Class": "Drawable", 
@@ -6840,8 +8126,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "388": {
                     "Class": "Drawable", 
@@ -6857,8 +8147,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "389": {
                     "Class": "Drawable", 
@@ -6874,8 +8168,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "390": {
                     "Class": "Drawable", 
@@ -6891,8 +8189,12 @@
                     "Texture Region Right": 0.1996879875195008, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "391": {
                     "Class": "Drawable", 
@@ -6908,8 +8210,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "392": {
                     "Class": "Drawable", 
@@ -6925,8 +8231,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "393": {
                     "Class": "Drawable", 
@@ -6942,8 +8252,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "394": {
                     "Class": "Drawable", 
@@ -6959,8 +8273,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "395": {
                     "Class": "Drawable", 
@@ -6976,8 +8294,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "396": {
                     "Class": "Drawable", 
@@ -6993,8 +8315,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "397": {
                     "Class": "Drawable", 
@@ -7010,8 +8336,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "398": {
                     "Class": "Drawable", 
@@ -7027,8 +8357,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "399": {
                     "Class": "Drawable", 
@@ -7044,8 +8378,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "400": {
                     "Class": "Drawable", 
@@ -7061,8 +8399,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "401": {
                     "Class": "Drawable", 
@@ -7078,8 +8420,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "402": {
                     "Class": "Drawable", 
@@ -7095,8 +8441,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "403": {
                     "Class": "Drawable", 
@@ -7112,8 +8462,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "404": {
                     "Class": "Drawable", 
@@ -7129,8 +8483,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "405": {
                     "Class": "Drawable", 
@@ -7146,8 +8504,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "406": {
                     "Class": "Drawable", 
@@ -7163,8 +8525,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "407": {
                     "Class": "Drawable", 
@@ -7180,8 +8546,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "408": {
                     "Class": "Drawable", 
@@ -7197,8 +8567,12 @@
                     "Texture Region Right": 0.24960998439937598, 
                     "Texture Region Top": 0.5555555555555556, 
                     "Texture Region Bottom": 0.6666666666666666, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "409": {
                     "Class": "Drawable", 
@@ -7214,8 +8588,12 @@
                     "Texture Region Right": 0.9485179407176287, 
                     "Texture Region Top": 0.3333333333333333, 
                     "Texture Region Bottom": 0.4444444444444444, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "410": {
                     "Class": "Drawable", 
@@ -7231,8 +8609,12 @@
                     "Texture Region Right": 0.9984399375975039, 
                     "Texture Region Top": 0.3333333333333333, 
                     "Texture Region Bottom": 0.4444444444444444, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "411": {
                     "Class": "Drawable", 
@@ -7248,8 +8630,12 @@
                     "Texture Region Right": 0.9984399375975039, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "412": {
                     "Class": "Drawable", 
@@ -7265,8 +8651,12 @@
                     "Texture Region Right": 0.9485179407176287, 
                     "Texture Region Top": 0.4444444444444444, 
                     "Texture Region Bottom": 0.5555555555555556, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "413": {
                     "Class": "Drawable", 
@@ -7282,8 +8672,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "414": {
                     "Class": "Drawable", 
@@ -7299,8 +8693,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "415": {
                     "Class": "Drawable", 
@@ -7316,8 +8714,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "416": {
                     "Class": "Drawable", 
@@ -7333,8 +8735,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "417": {
                     "Class": "Drawable", 
@@ -7350,8 +8756,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "418": {
                     "Class": "Drawable", 
@@ -7367,8 +8777,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "419": {
                     "Class": "Drawable", 
@@ -7384,8 +8798,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "420": {
                     "Class": "Drawable", 
@@ -7401,8 +8819,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "421": {
                     "Class": "Drawable", 
@@ -7418,8 +8840,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "422": {
                     "Class": "Drawable", 
@@ -7435,8 +8861,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "423": {
                     "Class": "Drawable", 
@@ -7452,8 +8882,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "424": {
                     "Class": "Drawable", 
@@ -7469,8 +8903,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "425": {
                     "Class": "Drawable", 
@@ -7486,8 +8924,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "426": {
                     "Class": "Drawable", 
@@ -7503,8 +8945,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "427": {
                     "Class": "Drawable", 
@@ -7520,8 +8966,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "428": {
                     "Class": "Drawable", 
@@ -7537,8 +8987,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "429": {
                     "Class": "Drawable", 
@@ -7554,8 +9008,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "430": {
                     "Class": "Drawable", 
@@ -7571,8 +9029,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "431": {
                     "Class": "Drawable", 
@@ -7588,8 +9050,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "432": {
                     "Class": "Drawable", 
@@ -7605,8 +9071,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "433": {
                     "Class": "Drawable", 
@@ -7622,8 +9092,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "434": {
                     "Class": "Drawable", 
@@ -7639,8 +9113,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "435": {
                     "Class": "Drawable", 
@@ -7656,8 +9134,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "436": {
                     "Class": "Drawable", 
@@ -7673,8 +9155,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "437": {
                     "Class": "Drawable", 
@@ -7690,8 +9176,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "438": {
                     "Class": "Drawable", 
@@ -7707,8 +9197,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "439": {
                     "Class": "Drawable", 
@@ -7724,8 +9218,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "440": {
                     "Class": "Drawable", 
@@ -7741,8 +9239,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "441": {
                     "Class": "Drawable", 
@@ -7758,8 +9260,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "442": {
                     "Class": "Drawable", 
@@ -7775,8 +9281,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "443": {
                     "Class": "Drawable", 
@@ -7792,8 +9302,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "444": {
                     "Class": "Drawable", 
@@ -7809,8 +9323,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "445": {
                     "Class": "Drawable", 
@@ -7826,8 +9344,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "446": {
                     "Class": "Drawable", 
@@ -7843,8 +9365,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "447": {
                     "Class": "Drawable", 
@@ -7860,8 +9386,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "448": {
                     "Class": "Drawable", 
@@ -7877,8 +9407,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "449": {
                     "Class": "Drawable", 
@@ -7894,8 +9428,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "450": {
                     "Class": "Drawable", 
@@ -7911,8 +9449,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "451": {
                     "Class": "Drawable", 
@@ -7928,8 +9470,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "452": {
                     "Class": "Drawable", 
@@ -7945,8 +9491,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "453": {
                     "Class": "Drawable", 
@@ -7962,8 +9512,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "454": {
                     "Class": "Drawable", 
@@ -7979,8 +9533,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "455": {
                     "Class": "Drawable", 
@@ -7996,8 +9554,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "456": {
                     "Class": "Drawable", 
@@ -8013,8 +9575,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "457": {
                     "Class": "Drawable", 
@@ -8030,8 +9596,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "458": {
                     "Class": "Drawable", 
@@ -8047,8 +9617,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "459": {
                     "Class": "Drawable", 
@@ -8064,8 +9638,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "460": {
                     "Class": "Drawable", 
@@ -8081,8 +9659,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "461": {
                     "Class": "Drawable", 
@@ -8098,8 +9680,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "462": {
                     "Class": "Drawable", 
@@ -8115,8 +9701,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "463": {
                     "Class": "Drawable", 
@@ -8132,8 +9722,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "464": {
                     "Class": "Drawable", 
@@ -8149,8 +9743,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "465": {
                     "Class": "Drawable", 
@@ -8166,8 +9764,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "466": {
                     "Class": "Drawable", 
@@ -8183,8 +9785,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "467": {
                     "Class": "Drawable", 
@@ -8200,8 +9806,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "468": {
                     "Class": "Drawable", 
@@ -8217,8 +9827,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "469": {
                     "Class": "Drawable", 
@@ -8234,8 +9848,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "470": {
                     "Class": "Drawable", 
@@ -8251,8 +9869,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "471": {
                     "Class": "Drawable", 
@@ -8268,8 +9890,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "472": {
                     "Class": "Drawable", 
@@ -8285,8 +9911,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "473": {
                     "Class": "Drawable", 
@@ -8302,8 +9932,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "474": {
                     "Class": "Drawable", 
@@ -8319,8 +9953,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "475": {
                     "Class": "Drawable", 
@@ -8336,8 +9974,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "476": {
                     "Class": "Drawable", 
@@ -8353,8 +9995,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "477": {
                     "Class": "Drawable", 
@@ -8370,8 +10016,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "478": {
                     "Class": "Drawable", 
@@ -8387,8 +10037,12 @@
                     "Texture Region Right": 0.0499219968798752, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "479": {
                     "Class": "Drawable", 
@@ -8404,8 +10058,12 @@
                     "Texture Region Right": 0.1497659906396256, 
                     "Texture Region Top": 0.2222222222222222, 
                     "Texture Region Bottom": 0.3333333333333333, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
-                    "Physics Enabled": false
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
                 }, 
                 "480": {
                     "Class": "Drawable", 
@@ -8421,9 +10079,46 @@
                     "Texture Region Right": 0.8985959438377535, 
                     "Texture Region Top": 0.1111111111111111, 
                     "Texture Region Bottom": 0.2222222222222222, 
-                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Color": [0.0, 0.0, 0.0, 0.0], 
                     "Physics Enabled": true, 
-                    "Responsiveness": 0
+                    "Responsiveness": 0, 
+                    "Mass": 0.0, 
+                    "Friction": 0.0, 
+                    "Restitution": 0.0
+                }, 
+                "481": {
+                    "Class": "Drawable", 
+                    "Name": "Player", 
+                    "Description": "", 
+                    "Position": [96.0, 64.0], 
+                    "Size": [32.0, 32.0], 
+                    "Scale": [1.0, 1.0], 
+                    "Rotation": 0.0, 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets/Dungeon.png", 
+                    "Texture Region Left": 0.03125, 
+                    "Texture Region Right": 0.09375, 
+                    "Texture Region Top": 0.53125, 
+                    "Texture Region Bottom": 0.59375, 
+                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Physics Enabled": false
+                }, 
+                "482": {
+                    "Class": "Drawable", 
+                    "Name": "NPC", 
+                    "Description": "", 
+                    "Position": [80.0, 384.0], 
+                    "Size": [32.0, 32.0], 
+                    "Scale": [1.0, 1.0], 
+                    "Rotation": 0.0, 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets/Dungeon.png", 
+                    "Texture Region Left": 0.03125, 
+                    "Texture Region Right": 0.09375, 
+                    "Texture Region Top": 0.625, 
+                    "Texture Region Bottom": 0.6875, 
+                    "Color": [1.0, 1.0, 1.0, 1.0], 
+                    "Physics Enabled": false
                 }
             }
         }

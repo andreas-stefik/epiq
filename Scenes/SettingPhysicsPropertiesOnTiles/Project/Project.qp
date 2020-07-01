@@ -6,6 +6,6 @@
     "ImageSheetRebuildOnCompile" : false,
     "Main" : "/SourceCode/Main.quorum",
     "MobileAssets" : "media",
-    "ProjectName" : "EvilLordBunnykins",
+    "ProjectName" : "Setting Physics Properties on Tiles",
     "ProjectType" : "JavaType"
 }

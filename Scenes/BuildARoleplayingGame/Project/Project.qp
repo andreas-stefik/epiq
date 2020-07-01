@@ -6,6 +6,6 @@
     "ImageSheetRebuildOnCompile" : false,
     "Main" : "/SourceCode/Main.quorum",
     "MobileAssets" : "media",
-    "ProjectName" : "EvilLordBunnykins",
+    "ProjectName" : "Hands On With Quorum Studio",
     "ProjectType" : "JavaType"
 }
