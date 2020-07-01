@@ -13,6 +13,11 @@ use Libraries.Interface.Events.KeyboardEvent
     played. 
 */
 class Main is Game, KeyboardListener
+    /* Notice we moved these definitions up here. These are called "fields" 
+       and they are available to be used anywhere in our program.
+    */
+    Item2D player = undefined
+    Item2D npc = undefined
     /*
         This action, Main, starts our computer program. In Quorum, programs always
         begin from Main.
@@ -31,11 +36,9 @@ class Main is Game, KeyboardListener
         LoadScene(file)
 
         //Get the items from the scene, like the last tutorial
-        Item2D player = FindItem2DByName("Player")
-        Item2D npc = FindItem2DByName("NPC")
-
-        output player:GetName()
-        output npc:GetName()
+        //But now we put them in fields up above.
+        player = FindItem2DByName("Player")
+        npc = FindItem2DByName("NPC")
 
         //Register a keyboard listener to get messages when the user types
         AddKeyboardListener(me)
@@ -50,9 +53,27 @@ class Main is Game, KeyboardListener
     action Update(number seconds)
     end
 
-    /* When a key is pressed, this code executes */
+    /*  When a key is pressed, this code executes.
+        Press CTRL + J (PC) or CMD + J on the word "KeyboardEvent" to jump to 
+        that location and see what code lives there. This is helpful to learn all of
+        the commands. Note that memorizing them is not the norm. 
+     */
     action PressedKey(KeyboardEvent event)
-        output event:keyCode
+        integer code = event:keyCode
+        number x = player:GetX()
+        number y = player:GetY()
+
+        //this means move by 20 pixels
+        number amount = 20
+        if code = event:UP
+            player:SetY(y + amount)
+        elseif code = event:DOWN
+            player:SetY(y - amount)
+        elseif code = event:LEFT
+            player:SetX(x - amount)
+        elseif code = event:RIGHT
+            player:SetX(x + amount)
+        end
     end
 
     /* When a key is released, this code executes */
