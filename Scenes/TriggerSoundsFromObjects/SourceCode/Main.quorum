@@ -33,6 +33,7 @@ class Main is Game, KeyboardListener, CollisionListener2D
 
     //Our background music
     Audio music
+    Audio potion
 
     boolean hasTriggeredQuest = false
     /*
@@ -90,6 +91,10 @@ class Main is Game, KeyboardListener, CollisionListener2D
         //load the background music
         music:LoadToStream("Resources/Sounds/Funshine.ogg")
         music:Play()
+
+        //Credit for the sound available at freesound
+        //https://freesound.org/people/Jamius/sounds/41529/
+        potion:Load("Resources/Sounds/Potion.ogg")
 
         //Register a keyboard listener to get messages when the user types
         AddKeyboardListener(me)
@@ -178,7 +183,45 @@ If only I had 5 blue potions, I might be able to create an uber potion to streng
         Item2D a = event:GetItemA()
         Item2D b = event:GetItemB()
 
-        output a:GetName()
-        output b:GetName()
+        //remove the potions and play a sound
+        //if a is a potion and b is the player
+        text name = a:GetName()
+        boolean isPlayer = b:GetName() = "Player"
+        if name = "Blue potion 1" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 2" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 3" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 4" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 5" and isPlayer
+            potion:Play()
+            Remove(a)
+        end
+
+        //if b is the potion and a is the player
+        name = b:GetName()
+        isPlayer = a:GetName() = "Player"
+        if name = "Blue potion 1" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 2" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 3" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 4" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 5" and isPlayer
+            potion:Play()
+            Remove(b)
+        end
     end
 end
