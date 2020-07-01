@@ -6,6 +6,6 @@
     "ImageSheetRebuildOnCompile" : false,
     "Main" : "/SourceCode/Main.quorum",
     "MobileAssets" : "media",
-    "ProjectName" : "Making Objects Good or Evil",
+    "ProjectName" : "Add Background Music",
     "ProjectType" : "JavaType"
 }
