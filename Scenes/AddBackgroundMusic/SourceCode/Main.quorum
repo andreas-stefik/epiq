@@ -6,6 +6,7 @@ use Libraries.Interface.Events.KeyboardListener
 use Libraries.Interface.Events.KeyboardEvent
 use Libraries.Compute.Vector2
 use Libraries.Compute.Math
+use Libraries.Sound.Audio
 
 /*
     This is a default class for creating a game in Quorum. Note that the Main 
@@ -27,6 +28,9 @@ class Main is Game, KeyboardListener
     Item2D potion3 = undefined
     Item2D potion4 = undefined
     Item2D potion5 = undefined
+
+    //Our background music
+    Audio music
 
     boolean hasTriggeredQuest = false
     /*
@@ -71,6 +75,10 @@ class Main is Game, KeyboardListener
         potion4:Hide()
         potion5:Hide()
 
+        //load the background music
+        music:LoadToStream("Resources/Sounds/Funshine.ogg")
+        music:Play()
+
         //Register a keyboard listener to get messages when the user types
         AddKeyboardListener(me)
 
@@ -85,6 +93,7 @@ class Main is Game, KeyboardListener
         or to make creatures jump.
     */
     action Update(number seconds)
+        music:Stream()
     end
 
     /*  When a key is pressed, this code executes.
