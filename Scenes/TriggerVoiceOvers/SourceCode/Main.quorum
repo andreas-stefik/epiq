@@ -1,0 +1,258 @@
+use Libraries.Game.Game
+use Libraries.Game.Scenes.Scene
+use Libraries.System.File
+use Libraries.Interface.Item2D
+use Libraries.Interface.Events.KeyboardListener
+use Libraries.Interface.Events.KeyboardEvent
+use Libraries.Compute.Vector2
+use Libraries.Compute.Math
+use Libraries.Sound.Audio
+use Libraries.Interface.Events.CollisionListener2D
+use Libraries.Interface.Events.CollisionEvent2D
+use Libraries.Containers.Array
+
+/*
+    This is a default class for creating a game in Quorum. Note that the Main 
+    action begins by calling StartGame(), which loads a window a game can 
+    be displayed in. The action CreateGame is where the game should load any 
+    assets, like images to be displayed, frames of animation, or sounds to be
+    played. 
+*/
+class Main is Game, KeyboardListener, CollisionListener2D
+    /* Notice we moved these definitions up here. These are called "fields" 
+       and they are available to be used anywhere in our program.
+    */
+    Item2D player = undefined
+    Item2D npc = undefined
+    Item2D bad = undefined
+
+    //We now need to move the potions up here as well
+    Array<Item2D> goodItems
+
+    //Our background music
+    Audio music
+    Audio potion
+    Audio quest
+    Audio told
+    Audio monster
+    integer itemsFound = 0
+
+    boolean hasTriggeredQuest = false
+    /*
+        This action, Main, starts our computer program. In Quorum, programs always
+        begin from Main.
+    */
+    action Main
+        StartGame()
+    end
+
+    /*
+        Inside of this template, we load up a scene from on disk. 
+        The game automatically knows and can read these files.
+    */
+    action CreateGame
+        File file
+        file:SetPath("Scenes/Scene.qs")
+        LoadScene(file)
+        
+        //Get the items from the scene, like the last tutorial
+        //But now we put them in fields up above.
+        player = FindItem2DByName("Player")
+        npc = FindItem2DByName("NPC")
+        bad = FindItem2DByName("Red Mouth")
+
+        //Optional: We can make our character not rotate and slow down
+        //with some extra physics calls
+        player:SetLinearDamping(10)
+        player:CanRotate(false)
+
+        //Hide the monster
+        bad:Hide()
+
+        //Get all of the potions that we added
+        //For this version, we move them to fields
+        goodItems:Add(FindItem2DByName("Blue potion 1"))
+        goodItems:Add(FindItem2DByName("Blue potion 2"))
+        goodItems:Add(FindItem2DByName("Blue potion 3"))
+        goodItems:Add(FindItem2DByName("Blue potion 4"))
+        goodItems:Add(FindItem2DByName("Blue potion 5"))
+
+        //potions do not have physics enabled, so 
+        //we need to tell the system manually to let them collide
+        //we could also turn on physics and make them unmovable in the
+        //scene editor
+        i = 0
+        repeat while i < goodItems:GetSize()
+            Item2D item = goodItems:Get(i)
+            //now we can do both of these operations easily
+            //no matter how many good items we add
+            item:SetCollidable(true)
+            item:Hide()
+            i = i + 1
+        end 
+
+        //load the background music
+        music:LoadToStream("Resources/Sounds/Funshine.ogg")
+        music:SetVolume(0.15)
+        music:Play()
+
+        //Credit for the sound available at freesound
+        //https://freesound.org/people/Jamius/sounds/41529/
+        potion:Load("Resources/Sounds/Potion.ogg")
+        quest:Load("Resources/Sounds/Help.ogg")
+        told:Load("Resources/Sounds/Told.ogg")
+        monster:Load("Resources/Sounds/Master.ogg")
+
+        //Register a keyboard listener to get messages when the user types
+        AddKeyboardListener(me)
+        
+        //Register a listener for the collision system
+        AddCollisionListener(me)
+
+        //We need to tell our game to turn on physics in general.
+        EnablePhysics2D(true)
+    end
+
+    /*
+        The update action is called on every "frame" of animation in a game. This
+        action should be used to do operations on items. So, for example, we 
+        might use this action to change frames of animation, to rotate items, 
+        or to make creatures jump.
+    */
+    action Update(number seconds)
+        music:Stream()
+    end
+
+    /*  When a key is pressed, this code executes.
+        Press CTRL + J (PC) or CMD + J on the word "KeyboardEvent" to jump to 
+        that location and see what code lives there. This is helpful to learn all of
+        the commands. Note that memorizing them is not the norm. 
+     */
+    action PressedKey(KeyboardEvent event)
+        integer code = event:keyCode
+        xPlayer = player:GetX()
+        yPlayer = player:GetY()
+        Math math
+
+        //Use a vector, like in math, to tell our system
+        //how much force to apply to our player in a direction
+        Vector2 v
+        //This is the number of newtons (a unit of force) to apply
+        number amount = 20000
+
+        //Use an if statement to apply force for various keys.
+        if code = event:UP
+            v:SetY(amount)
+        elseif code = event:DOWN
+            v:SetY(-amount)
+        elseif code = event:LEFT
+            v:SetX(-amount)
+        elseif code = event:RIGHT
+            v:SetX(amount)
+        elseif code = event:F and hasTriggeredQuest //only do this if the quest is triggered
+            //set the current smallest distance to the largest possible number
+            //then create a placeholder in memory for an Item2D
+            number smallest = amount:GetMaximumValue()
+            Item2D closest = undefined
+
+            //loop through all of the items and find which one is the closest
+            i = 0
+            repeat while i < goodItems:GetSize()
+                Item2D item = goodItems:Get(i)
+                number itemX = item:GetX()
+                number itemY = item:GetY()
+
+                //this is the same equation from before
+                number xd = (xPlayer - itemX) * (xPlayer - itemX)
+                number yd = (yPlayer - itemY) * (yPlayer - itemY)
+                number distance = math:SquareRoot(xd + yd)
+                
+                //if it's smaller, maybe it's that one
+                if distance < smallest
+                    smallest = distance
+                    closest = item
+                end
+                i = i + 1
+            end
+
+            //did we find one? If so, give its name and distance
+            if closest not= undefined
+                output closest:GetName() + " Distance " + smallest
+            end
+        elseif code = event:SPACE
+            xNPC = npc:GetX()
+            yNPC = npc:GetY()
+            
+            //I wrote the distance formula manually, but do this how you wish
+            //It is Square Root((x1 - x2)^2 + (y1 - y2)^2)
+            number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
+            number yd = (yPlayer - yNPC) * (yPlayer - yNPC)
+            number distance = math:SquareRoot(xd + yd)
+
+            number maxDistance = 100
+            if distance < maxDistance and not hasTriggeredQuest
+                quest:Play()
+                //We now use a loop for all potion operations
+                i = 0
+                repeat while i < goodItems:GetSize()
+                    Item2D item = goodItems:Get(i)
+                    item:Show()
+                    i = i + 1
+                end
+                hasTriggeredQuest = true
+            elseif distance < maxDistance and hasTriggeredQuest
+                told:Play()
+            end
+        end
+
+        //Use the force
+        player:ApplyForceToCenter(v)
+    end
+
+    /* When a key is released, this code executes */
+    action ReleasedKey(KeyboardEvent event)
+    end
+
+    /*
+        This tells us what items are colliding. 
+    */
+    action BeginCollision(CollisionEvent2D event)
+        Item2D a = event:GetItemA()
+        Item2D b = event:GetItemB()
+
+        //remove the potions and play a sound
+        //if a is a potion and b is the player
+        text name = a:GetName()
+        boolean isPlayer = b:GetName() = "Player"
+        i = 0
+        repeat while i < goodItems:GetSize()
+            Item2D item = goodItems:Get(i)
+            if name = item:GetName() and isPlayer
+                potion:Play()
+                Remove(a)
+                itemsFound = itemsFound + 1
+            end
+            i = i + 1
+        end
+
+        //if b is the potion and a is the player
+        name = b:GetName()
+        isPlayer = a:GetName() = "Player"
+        i = 0
+        repeat while i < goodItems:GetSize()
+            Item2D item = goodItems:Get(i)
+            if name = item:GetName() and isPlayer
+                potion:Play()
+                Remove(b)
+                itemsFound = itemsFound + 1
+            end
+            i = i + 1
+        end
+
+        //we found them all, so trigger the end of the game.
+        if itemsFound = goodItems:GetSize()
+            bad:Show()
+            monster:Play()
+        end
+    end
+end
