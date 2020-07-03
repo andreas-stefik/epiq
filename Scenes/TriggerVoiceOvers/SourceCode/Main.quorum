@@ -109,6 +109,9 @@ class Main is Game, KeyboardListener, CollisionListener2D
         //Register a listener for the collision system
         AddCollisionListener(me)
 
+        //for fun make the screen bigger
+        SetScreenSize(1600,1200, false)
+
         //We need to tell our game to turn on physics in general.
         EnablePhysics2D(true)
     end
