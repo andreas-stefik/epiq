@@ -38,6 +38,7 @@ class Main is Game, KeyboardListener, CollisionListener2D
     integer itemsFound = 0
 
     boolean hasTriggeredQuest = false
+    boolean hasTriggeredMonsterVoiceOver = false
     /*
         This action, Main, starts our computer program. In Quorum, programs always
         begin from Main.
@@ -253,9 +254,10 @@ class Main is Game, KeyboardListener, CollisionListener2D
         end
 
         //we found them all, so trigger the end of the game.
-        if itemsFound = goodItems:GetSize()
+        if itemsFound = goodItems:GetSize() and not hasTriggeredMonsterVoiceOver
             bad:Show()
             monster:Play()
+            hasTriggeredMonsterVoiceOver = true
         end
     end
 end
