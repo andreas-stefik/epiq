@@ -10,6 +10,7 @@ use Libraries.Sound.Audio
 use Libraries.Interface.Events.CollisionListener2D
 use Libraries.Interface.Events.CollisionEvent2D
 use Libraries.Containers.Array
+use Libraries.Game.Graphics.Camera
 
 /*
     This is a default class for creating a game in Quorum. Note that the Main 
@@ -125,6 +126,11 @@ class Main is Game, KeyboardListener, CollisionListener2D
     */
     action Update(number seconds)
         music:Stream()
+        Camera camera = GetCamera2D()
+        camera:SetWidth(800)
+        camera:SetHeight(600)
+        camera:SetPosition(400, 300, camera:GetPosition():GetZ())
+        camera:Update()
     end
 
     /*  When a key is pressed, this code executes.
