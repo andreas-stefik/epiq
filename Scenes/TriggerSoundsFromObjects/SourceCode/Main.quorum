@@ -1,14 +1,14 @@
 use Libraries.Game.Game
 use Libraries.Game.Scenes.Scene
 use Libraries.System.File
-use Libraries.Interface.Item2D
+use Libraries.Interface.Item3D
 use Libraries.Interface.Events.KeyboardListener
 use Libraries.Interface.Events.KeyboardEvent
-use Libraries.Compute.Vector2
+use Libraries.Compute.Vector3
 use Libraries.Compute.Math
 use Libraries.Sound.Audio
-use Libraries.Interface.Events.CollisionListener2D
-use Libraries.Interface.Events.CollisionEvent2D
+use Libraries.Interface.Events.CollisionEvent3D
+use Libraries.Interface.Events.CollisionListener3D
 
 /*
     This is a default class for creating a game in Quorum. Note that the Main 
@@ -17,19 +17,19 @@ use Libraries.Interface.Events.CollisionEvent2D
     assets, like images to be displayed, frames of animation, or sounds to be
     played. 
 */
-class Main is Game, KeyboardListener, CollisionListener2D
+class Main is Game, KeyboardListener, CollisionListener3D
     /* Notice we moved these definitions up here. These are called "fields" 
        and they are available to be used anywhere in our program.
     */
-    Item2D player = undefined
-    Item2D npc = undefined
+    Item3D player = undefined
+    Item3D npc = undefined
 
     //We now need to move the potions up here as well
-    Item2D potion1 = undefined
-    Item2D potion2 = undefined
-    Item2D potion3 = undefined
-    Item2D potion4 = undefined
-    Item2D potion5 = undefined
+    Item3D potion1 = undefined
+    Item3D potion2 = undefined
+    Item3D potion3 = undefined
+    Item3D potion4 = undefined
+    Item3D potion5 = undefined
 
     //Our background music
     Audio music
@@ -55,21 +55,21 @@ class Main is Game, KeyboardListener, CollisionListener2D
         
         //Get the items from the scene, like the last tutorial
         //But now we put them in fields up above.
-        player = FindItem2DByName("Player")
-        npc = FindItem2DByName("NPC")
+        player = FindItem3DByName("Player")
+        npc = FindItem3DByName("NPC")
 
         //Optional: We can make our character not rotate and slow down
         //with some extra physics calls
-        player:SetLinearDamping(10)
+        player:SetLinearDamping(0.1)
         player:CanRotate(false)
 
         //Get all of the potions that we added
         //For this version, we move them to fields
-        potion1 = FindItem2DByName("Blue potion 1")
-        potion2 = FindItem2DByName("Blue potion 2")
-        potion3 = FindItem2DByName("Blue potion 3")
-        potion4 = FindItem2DByName("Blue potion 4")
-        potion5 = FindItem2DByName("Blue potion 5")
+        potion1 = FindItem3DByName("Blue potion 1")
+        potion2 = FindItem3DByName("Blue potion 2")
+        potion3 = FindItem3DByName("Blue potion 3")
+        potion4 = FindItem3DByName("Blue potion 4")
+        potion5 = FindItem3DByName("Blue potion 5")
 
         //potions do not have physics enabled, so 
         //we need to tell the system manually to let them collide
@@ -90,6 +90,7 @@ class Main is Game, KeyboardListener, CollisionListener2D
 
         //load the background music
         music:LoadToStream("Resources/Sounds/Funshine.ogg")
+        music:SetVolume(0.05)
         music:Play()
 
         //Credit for the sound available at freesound
@@ -103,7 +104,8 @@ class Main is Game, KeyboardListener, CollisionListener2D
         AddCollisionListener(me)
 
         //We need to tell our game to turn on physics in general.
-        EnablePhysics2D(true)
+        EnablePhysics3D(true)
+        SetGravity3D(0,-10,0)
     end
 
     /*
@@ -126,34 +128,36 @@ class Main is Game, KeyboardListener, CollisionListener2D
 
         //Use a vector, like in math, to tell our system
         //how much force to apply to our player in a direction
-        Vector2 v
+        Vector3 v
         //This is the number of newtons (a unit of force) to apply
-        number amount = 20000
+        number amount = 200
 
         //Use an if statement to apply force for various keys.
         if code = event:UP
-            v:SetY(amount)
+            v:SetZ(amount)
         elseif code = event:DOWN
-            v:SetY(-amount)
+            v:SetZ(-amount)
         elseif code = event:LEFT
             v:SetX(-amount)
         elseif code = event:RIGHT
             v:SetX(amount)
         elseif code = event:SPACE
+            v:SetY(amount)
+        elseif code = event:Q
             xPlayer = player:GetX()
-            yPlayer = player:GetY()
+            zPlayer = player:GetZ()
 
             xNPC = npc:GetX()
-            yNPC = npc:GetY()
+            zNPC = npc:GetZ()
 
             Math math
             //I wrote the distance formula manually, but do this how you wish
-            //It is Square Root((x1 - x2)^2 + (y1 - y2)^2)
+            //It is Square Root((x1 - x2)^2 + (z1 - z2)^2)
             number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
-            number yd = (yPlayer - yNPC) * (yPlayer - yNPC)
-            number distance = math:SquareRoot(xd + yd)
+            number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
+            number distance = math:SquareRoot(xd + zd)
 
-            number maxDistance = 100
+            number maxDistance = 3
             if distance < maxDistance and not hasTriggeredQuest
                 output "Help, help! Evil Lord Bunnykins is rampaging across the countryside. 
 If only I had 5 blue potions, I might be able to create an uber potion to strengthen us."
@@ -179,9 +183,9 @@ If only I had 5 blue potions, I might be able to create an uber potion to streng
     /*
         This tells us what items are colliding. 
     */
-    action BeginCollision(CollisionEvent2D event)
-        Item2D a = event:GetItemA()
-        Item2D b = event:GetItemB()
+    action BeginCollision(CollisionEvent3D event)
+        Item3D a = event:GetItemA()
+        Item3D b = event:GetItemB()
 
         //remove the potions and play a sound
         //if a is a potion and b is the player

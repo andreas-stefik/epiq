@@ -1,7 +1,7 @@
 use Libraries.Game.Game
 use Libraries.Game.Scenes.Scene
 use Libraries.System.File
-use Libraries.Interface.Item2D
+use Libraries.Interface.Item3D
 
 /*
     This is a default class for creating a game in Quorum. Note that the Main 
@@ -27,8 +27,8 @@ class Main is Game
         file:SetPath("Scenes/Scene.qs")
         LoadScene(file)
 
-        Item2D player = FindItem2DByName("Player")
-        Item2D npc = FindItem2DByName("NPC")
+        Item3D player = FindItem3DByName("Player")
+        Item3D npc = FindItem3DByName("NPC")
 
         output player:GetName()
         output npc:GetName()

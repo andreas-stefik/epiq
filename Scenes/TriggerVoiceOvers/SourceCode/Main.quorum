@@ -1,14 +1,14 @@
 use Libraries.Game.Game
 use Libraries.Game.Scenes.Scene
 use Libraries.System.File
-use Libraries.Interface.Item2D
+use Libraries.Interface.Item3D
 use Libraries.Interface.Events.KeyboardListener
 use Libraries.Interface.Events.KeyboardEvent
-use Libraries.Compute.Vector2
+use Libraries.Compute.Vector3
 use Libraries.Compute.Math
 use Libraries.Sound.Audio
-use Libraries.Interface.Events.CollisionListener2D
-use Libraries.Interface.Events.CollisionEvent2D
+use Libraries.Interface.Events.CollisionListener3D
+use Libraries.Interface.Events.CollisionEvent3D
 use Libraries.Containers.Array
 use Libraries.Game.Graphics.Camera
 
@@ -19,16 +19,16 @@ use Libraries.Game.Graphics.Camera
     assets, like images to be displayed, frames of animation, or sounds to be
     played. 
 */
-class Main is Game, KeyboardListener, CollisionListener2D
+class Main is Game, KeyboardListener, CollisionListener3D
     /* Notice we moved these definitions up here. These are called "fields" 
        and they are available to be used anywhere in our program.
     */
-    Item2D player = undefined
-    Item2D npc = undefined
-    Item2D bad = undefined
+    Item3D player = undefined
+    Item3D npc = undefined
+    Item3D bad = undefined
 
     //We now need to move the potions up here as well
-    Array<Item2D> goodItems
+    Array<Item3D> goodItems
 
     //Our background music
     Audio music
@@ -59,13 +59,13 @@ class Main is Game, KeyboardListener, CollisionListener2D
         
         //Get the items from the scene, like the last tutorial
         //But now we put them in fields up above.
-        player = FindItem2DByName("Player")
-        npc = FindItem2DByName("NPC")
-        bad = FindItem2DByName("Red Mouth")
+        player = FindItem3DByName("Player")
+        npc = FindItem3DByName("NPC")
+        bad = FindItem3DByName("Red Mouth")
 
         //Optional: We can make our character not rotate and slow down
         //with some extra physics calls
-        player:SetLinearDamping(10)
+        player:SetLinearDamping(0.1)
         player:CanRotate(false)
 
         //Hide the monster
@@ -73,11 +73,11 @@ class Main is Game, KeyboardListener, CollisionListener2D
 
         //Get all of the potions that we added
         //For this version, we move them to fields
-        goodItems:Add(FindItem2DByName("Blue potion 1"))
-        goodItems:Add(FindItem2DByName("Blue potion 2"))
-        goodItems:Add(FindItem2DByName("Blue potion 3"))
-        goodItems:Add(FindItem2DByName("Blue potion 4"))
-        goodItems:Add(FindItem2DByName("Blue potion 5"))
+        goodItems:Add(FindItem3DByName("Blue potion 1"))
+        goodItems:Add(FindItem3DByName("Blue potion 2"))
+        goodItems:Add(FindItem3DByName("Blue potion 3"))
+        goodItems:Add(FindItem3DByName("Blue potion 4"))
+        goodItems:Add(FindItem3DByName("Blue potion 5"))
 
         //potions do not have physics enabled, so 
         //we need to tell the system manually to let them collide
@@ -85,7 +85,7 @@ class Main is Game, KeyboardListener, CollisionListener2D
         //scene editor
         i = 0
         repeat while i < goodItems:GetSize()
-            Item2D item = goodItems:Get(i)
+            Item3D item = goodItems:Get(i)
             //now we can do both of these operations easily
             //no matter how many good items we add
             item:SetCollidable(true)
@@ -115,7 +115,8 @@ class Main is Game, KeyboardListener, CollisionListener2D
         SetScreenSize(1600,1200, false)
 
         //We need to tell our game to turn on physics in general.
-        EnablePhysics2D(true)
+        EnablePhysics3D(true)
+        SetGravity3D(0,-10,0)
     end
 
     /*
@@ -126,10 +127,10 @@ class Main is Game, KeyboardListener, CollisionListener2D
     */
     action Update(number seconds)
         music:Stream()
-        Camera camera = GetCamera2D()
+        Camera camera = GetCamera3D()
         camera:SetWidth(800)
         camera:SetHeight(600)
-        camera:SetPosition(400, 300, camera:GetPosition():GetZ())
+        camera:SetPosition(0, 25, camera:GetPosition():GetZ())
         camera:Update()
     end
 
@@ -141,41 +142,43 @@ class Main is Game, KeyboardListener, CollisionListener2D
     action PressedKey(KeyboardEvent event)
         integer code = event:keyCode
         xPlayer = player:GetX()
-        yPlayer = player:GetY()
+        zPlayer = player:GetZ()
         Math math
 
         //Use a vector, like in math, to tell our system
         //how much force to apply to our player in a direction
-        Vector2 v
+        Vector3 v
         //This is the number of newtons (a unit of force) to apply
-        number amount = 20000
+        number amount = 200
 
         //Use an if statement to apply force for various keys.
         if code = event:UP
-            v:SetY(amount)
+            v:SetZ(amount)
         elseif code = event:DOWN
-            v:SetY(-amount)
+            v:SetZ(-amount)
         elseif code = event:LEFT
             v:SetX(-amount)
         elseif code = event:RIGHT
             v:SetX(amount)
+        elseif code = event:SPACE
+            v:SetY(amount)
         elseif code = event:F and hasTriggeredQuest //only do this if the quest is triggered
             //set the current smallest distance to the largest possible number
             //then create a placeholder in memory for an Item2D
             number smallest = amount:GetMaximumValue()
-            Item2D closest = undefined
+            Item3D closest = undefined
 
             //loop through all of the items and find which one is the closest
             i = 0
             repeat while i < goodItems:GetSize()
-                Item2D item = goodItems:Get(i)
+                Item3D item = goodItems:Get(i)
                 number itemX = item:GetX()
-                number itemY = item:GetY()
+                number itemZ = item:GetZ()
 
                 //this is the same equation from before
                 number xd = (xPlayer - itemX) * (xPlayer - itemX)
-                number yd = (yPlayer - itemY) * (yPlayer - itemY)
-                number distance = math:SquareRoot(xd + yd)
+                number zd = (zPlayer - itemZ) * (zPlayer - itemZ)
+                number distance = math:SquareRoot(xd + zd)
                 
                 //if it's smaller, maybe it's that one
                 if distance < smallest
@@ -189,23 +192,23 @@ class Main is Game, KeyboardListener, CollisionListener2D
             if closest not= undefined
                 output closest:GetName() + " Distance " + smallest
             end
-        elseif code = event:SPACE
+        elseif code = event:Q
             xNPC = npc:GetX()
-            yNPC = npc:GetY()
+            zNPC = npc:GetZ()
             
             //I wrote the distance formula manually, but do this how you wish
-            //It is Square Root((x1 - x2)^2 + (y1 - y2)^2)
+            //It is Square Root((x1 - x2)^2 + (z1 - z2)^2)
             number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
-            number yd = (yPlayer - yNPC) * (yPlayer - yNPC)
-            number distance = math:SquareRoot(xd + yd)
+            number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
+            number distance = math:SquareRoot(xd + zd)
 
-            number maxDistance = 100
+            number maxDistance = 3
             if distance < maxDistance and not hasTriggeredQuest
                 quest:Play()
                 //We now use a loop for all potion operations
                 i = 0
                 repeat while i < goodItems:GetSize()
-                    Item2D item = goodItems:Get(i)
+                    Item3D item = goodItems:Get(i)
                     item:Show()
                     i = i + 1
                 end
@@ -226,9 +229,9 @@ class Main is Game, KeyboardListener, CollisionListener2D
     /*
         This tells us what items are colliding. 
     */
-    action BeginCollision(CollisionEvent2D event)
-        Item2D a = event:GetItemA()
-        Item2D b = event:GetItemB()
+    action BeginCollision(CollisionEvent3D event)
+        Item3D a = event:GetItemA()
+        Item3D b = event:GetItemB()
 
         //remove the potions and play a sound
         //if a is a potion and b is the player
@@ -236,7 +239,7 @@ class Main is Game, KeyboardListener, CollisionListener2D
         boolean isPlayer = b:GetName() = "Player"
         i = 0
         repeat while i < goodItems:GetSize()
-            Item2D item = goodItems:Get(i)
+            Item3D item = goodItems:Get(i)
             if name = item:GetName() and isPlayer
                 potion:Play()
                 Remove(a)
@@ -250,7 +253,7 @@ class Main is Game, KeyboardListener, CollisionListener2D
         isPlayer = a:GetName() = "Player"
         i = 0
         repeat while i < goodItems:GetSize()
-            Item2D item = goodItems:Get(i)
+            Item3D item = goodItems:Get(i)
             if name = item:GetName() and isPlayer
                 potion:Play()
                 Remove(b)
