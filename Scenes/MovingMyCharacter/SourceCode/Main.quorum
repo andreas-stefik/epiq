@@ -1,7 +1,7 @@
 use Libraries.Game.Game
 use Libraries.Game.Scenes.Scene
 use Libraries.System.File
-use Libraries.Interface.Item3D
+use Libraries.Interface.Item2D
 use Libraries.Interface.Events.KeyboardListener
 use Libraries.Interface.Events.KeyboardEvent
 
@@ -16,8 +16,8 @@ class Main is Game, KeyboardListener
     /* Notice we moved these definitions up here. These are called "fields" 
        and they are available to be used anywhere in our program.
     */
-    Item3D player = undefined
-    Item3D npc = undefined
+    Item2D player = undefined
+    Item2D npc = undefined
     /*
         This action, Main, starts our computer program. In Quorum, programs always
         begin from Main.
@@ -37,8 +37,8 @@ class Main is Game, KeyboardListener
 
         //Get the items from the scene, like the last tutorial
         //But now we put them in fields up above.
-        player = FindItem3DByName("Player")
-        npc = FindItem3DByName("NPC")
+        player = FindItem2DByName("Player")
+        npc = FindItem2DByName("NPC")
 
         //Register a keyboard listener to get messages when the user types
         AddKeyboardListener(me)
@@ -62,14 +62,13 @@ class Main is Game, KeyboardListener
         integer code = event:keyCode
         number x = player:GetX()
         number y = player:GetY()
-        number z = player:GetZ()
 
         //this means move by 20 pixels
-        number amount = 1
+        number amount = 20
         if code = event:UP
-            player:SetZ(z + amount)
+            player:SetY(y + amount)
         elseif code = event:DOWN
-            player:SetZ(z - amount)
+            player:SetY(y - amount)
         elseif code = event:LEFT
             player:SetX(x - amount)
         elseif code = event:RIGHT

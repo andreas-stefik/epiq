@@ -1,0 +1,231 @@
+use Libraries.Game.Game
+use Libraries.Game.Scenes.Scene
+use Libraries.System.File
+use Libraries.Interface.Item3D
+use Libraries.Interface.Events.KeyboardListener
+use Libraries.Interface.Events.KeyboardEvent
+use Libraries.Compute.Vector3
+use Libraries.Compute.Math
+use Libraries.Sound.Audio
+use Libraries.Interface.Events.CollisionEvent3D
+use Libraries.Interface.Events.CollisionListener3D
+
+/*
+    This is a default class for creating a game in Quorum. Note that the Main 
+    action begins by calling StartGame(), which loads a window a game can 
+    be displayed in. The action CreateGame is where the game should load any 
+    assets, like images to be displayed, frames of animation, or sounds to be
+    played. 
+*/
+class Main is Game, KeyboardListener, CollisionListener3D
+    /* Notice we moved these definitions up here. These are called "fields" 
+       and they are available to be used anywhere in our program.
+    */
+    Item3D player = undefined
+    Item3D npc = undefined
+
+    //We now need to move the potions up here as well
+    Item3D potion1 = undefined
+    Item3D potion2 = undefined
+    Item3D potion3 = undefined
+    Item3D potion4 = undefined
+    Item3D potion5 = undefined
+
+    //Our background music
+    Audio music
+    Audio potion
+
+    boolean hasTriggeredQuest = false
+    /*
+        This action, Main, starts our computer program. In Quorum, programs always
+        begin from Main.
+    */
+    action Main
+        StartGame()
+    end
+
+    /*
+        Inside of this template, we load up a scene from on disk. 
+        The game automatically knows and can read these files.
+    */
+    action CreateGame
+        File file
+        file:SetPath("Scenes/Scene.qs")
+        LoadScene(file)
+        
+        //Get the items from the scene, like the last tutorial
+        //But now we put them in fields up above.
+        player = FindItem3DByName("Player")
+        npc = FindItem3DByName("NPC")
+
+        //Optional: We can make our character not rotate and slow down
+        //with some extra physics calls
+        player:SetLinearDamping(0.1)
+        player:CanRotate(false)
+
+        //Get all of the potions that we added
+        //For this version, we move them to fields
+        potion1 = FindItem3DByName("Blue potion 1")
+        potion2 = FindItem3DByName("Blue potion 2")
+        potion3 = FindItem3DByName("Blue potion 3")
+        potion4 = FindItem3DByName("Blue potion 4")
+        potion5 = FindItem3DByName("Blue potion 5")
+
+        //potions do not have physics enabled, so 
+        //we need to tell the system manually to let them collide
+        //we could also turn on physics and make them unmovable in the
+        //scene editor
+        potion1:SetCollidable(true)
+        potion2:SetCollidable(true)
+        potion3:SetCollidable(true)
+        potion4:SetCollidable(true)
+        potion5:SetCollidable(true)
+
+        //Hide all of the potions we added
+        potion1:Hide()
+        potion2:Hide()
+        potion3:Hide()
+        potion4:Hide()
+        potion5:Hide()
+
+        //load the background music
+        music:LoadToStream("Resources/Sounds/Funshine.ogg")
+        music:SetVolume(0.05)
+        music:Play()
+
+        //Credit for the sound available at freesound
+        //https://freesound.org/people/Jamius/sounds/41529/
+        potion:Load("Resources/Sounds/Potion.ogg")
+
+        //Register a keyboard listener to get messages when the user types
+        AddKeyboardListener(me)
+        
+        //Register a listener for the collision system
+        AddCollisionListener(me)
+
+        //We need to tell our game to turn on physics in general.
+        EnablePhysics3D(true)
+        SetGravity3D(0,-10,0)
+    end
+
+    /*
+        The update action is called on every "frame" of animation in a game. This
+        action should be used to do operations on items. So, for example, we 
+        might use this action to change frames of animation, to rotate items, 
+        or to make creatures jump.
+    */
+    action Update(number seconds)
+        music:Stream()
+    end
+
+    /*  When a key is pressed, this code executes.
+        Press CTRL + J (PC) or CMD + J on the word "KeyboardEvent" to jump to 
+        that location and see what code lives there. This is helpful to learn all of
+        the commands. Note that memorizing them is not the norm. 
+     */
+    action PressedKey(KeyboardEvent event)
+        integer code = event:keyCode
+
+        //Use a vector, like in math, to tell our system
+        //how much force to apply to our player in a direction
+        Vector3 v
+        //This is the number of newtons (a unit of force) to apply
+        number amount = 200
+
+        //Use an if statement to apply force for various keys.
+        if code = event:UP
+            v:SetZ(amount)
+        elseif code = event:DOWN
+            v:SetZ(-amount)
+        elseif code = event:LEFT
+            v:SetX(-amount)
+        elseif code = event:RIGHT
+            v:SetX(amount)
+        elseif code = event:SPACE
+            v:SetY(amount)
+        elseif code = event:Q
+            xPlayer = player:GetX()
+            zPlayer = player:GetZ()
+
+            xNPC = npc:GetX()
+            zNPC = npc:GetZ()
+
+            Math math
+            //I wrote the distance formula manually, but do this how you wish
+            //It is Square Root((x1 - x2)^2 + (z1 - z2)^2)
+            number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
+            number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
+            number distance = math:SquareRoot(xd + zd)
+
+            number maxDistance = 3
+            if distance < maxDistance and not hasTriggeredQuest
+                output "Help, help! Evil Lord Bunnykins is rampaging across the countryside. 
+If only I had 5 blue potions, I might be able to create an uber potion to strengthen us."
+
+                potion1:Show()
+                potion2:Show()
+                potion3:Show()
+                potion4:Show()
+                potion5:Show()
+            elseif distance < maxDistance and hasTriggeredQuest
+                output "I've already told you about the potions. Please help me."
+            end
+        end
+
+        //Use the force
+        player:ApplyForceToCenter(v)
+    end
+
+    /* When a key is released, this code executes */
+    action ReleasedKey(KeyboardEvent event)
+    end
+
+    /*
+        This tells us what items are colliding. 
+    */
+    action BeginCollision(CollisionEvent3D event)
+        Item3D a = event:GetItemA()
+        Item3D b = event:GetItemB()
+
+        //remove the potions and play a sound
+        //if a is a potion and b is the player
+        text name = a:GetName()
+        boolean isPlayer = b:GetName() = "Player"
+        if name = "Blue potion 1" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 2" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 3" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 4" and isPlayer
+            potion:Play()
+            Remove(a)
+        elseif name = "Blue potion 5" and isPlayer
+            potion:Play()
+            Remove(a)
+        end
+
+        //if b is the potion and a is the player
+        name = b:GetName()
+        isPlayer = a:GetName() = "Player"
+        if name = "Blue potion 1" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 2" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 3" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 4" and isPlayer
+            potion:Play()
+            Remove(b)
+        elseif name = "Blue potion 5" and isPlayer
+            potion:Play()
+            Remove(b)
+        end
+    end
+end

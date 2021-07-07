@@ -9,7 +9,6 @@ use Libraries.System.File
     assets, like images to be displayed, frames of animation, or sounds to be
     played. 
 */
-//InputMonitor monitor
 class Main is Game
     /*
         This action, Main, starts our computer program. In Quorum, programs always

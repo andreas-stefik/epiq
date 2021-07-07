@@ -1,10 +1,10 @@
 use Libraries.Game.Game
 use Libraries.Game.Scenes.Scene
 use Libraries.System.File
-use Libraries.Interface.Item3D
+use Libraries.Interface.Item2D
 use Libraries.Interface.Events.KeyboardListener
 use Libraries.Interface.Events.KeyboardEvent
-use Libraries.Compute.Vector3
+use Libraries.Compute.Vector2
 
 /*
     This is a default class for creating a game in Quorum. Note that the Main 
@@ -17,8 +17,8 @@ class Main is Game, KeyboardListener
     /* Notice we moved these definitions up here. These are called "fields" 
        and they are available to be used anywhere in our program.
     */
-    Item3D player = undefined
-    Item3D npc = undefined
+    Item2D player = undefined
+    Item2D npc = undefined
     /*
         This action, Main, starts our computer program. In Quorum, programs always
         begin from Main.
@@ -38,20 +38,20 @@ class Main is Game, KeyboardListener
         
         //Get the items from the scene, like the last tutorial
         //But now we put them in fields up above.
-        player = FindItem3DByName("Player")
-        npc = FindItem3DByName("NPC")
+        player = FindItem2DByName("Player")
+        npc = FindItem2DByName("NPC")
 
         //Optional: We can make our character not rotate and slow down
         //with some extra physics calls
-        player:SetLinearDamping(0.1)
+        player:SetLinearDamping(10)
         player:CanRotate(false)
 
         //Get all of the potions that we added
-        Item3D potion1 = FindItem3DByName("Blue potion 1")
-        Item3D potion2 = FindItem3DByName("Blue potion 2")
-        Item3D potion3 = FindItem3DByName("Blue potion 3")
-        Item3D potion4 = FindItem3DByName("Blue potion 4")
-        Item3D potion5 = FindItem3DByName("Blue potion 5")
+        Item2D potion1 = FindItem2DByName("Blue potion 1")
+        Item2D potion2 = FindItem2DByName("Blue potion 2")
+        Item2D potion3 = FindItem2DByName("Blue potion 3")
+        Item2D potion4 = FindItem2DByName("Blue potion 4")
+        Item2D potion5 = FindItem2DByName("Blue potion 5")
 
         //Hide all of the potions we added
         potion1:Hide()
@@ -64,8 +64,7 @@ class Main is Game, KeyboardListener
         AddKeyboardListener(me)
 
         //We need to tell our game to turn on physics in general.
-        EnablePhysics3D(true)
-        SetGravity3D(0,-10,0)
+        EnablePhysics2D(true)
     end
 
     /*
@@ -87,21 +86,19 @@ class Main is Game, KeyboardListener
 
         //Use a vector, like in math, to tell our system
         //how much force to apply to our player in a direction
-        Vector3 v
+        Vector2 v
         //This is the number of newtons (a unit of force) to apply
-        number amount = 200
+        number amount = 20000
 
         //Use an if statement to apply force for various keys.
         if code = event:UP
-            v:SetZ(amount)
+            v:SetY(amount)
         elseif code = event:DOWN
-            v:SetZ(-amount)
+            v:SetY(-amount)
         elseif code = event:LEFT
             v:SetX(-amount)
         elseif code = event:RIGHT
             v:SetX(amount)
-        elseif code = event:SPACE
-            v:SetY(amount)
         end
 
         //Use the force

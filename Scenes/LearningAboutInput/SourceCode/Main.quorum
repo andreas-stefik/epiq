@@ -1,9 +1,9 @@
 use Libraries.Game.Game
 use Libraries.Game.Scenes.Scene
 use Libraries.System.File
+use Libraries.Interface.Item2D
 use Libraries.Interface.Events.KeyboardListener
 use Libraries.Interface.Events.KeyboardEvent
-use Libraries.Interface.Item3D
 
 /*
     This is a default class for creating a game in Quorum. Note that the Main 
@@ -31,11 +31,11 @@ class Main is Game, KeyboardListener
         LoadScene(file)
 
         //Get the items from the scene, like the last tutorial
-        Item3D player = FindItem3DByName("Player")
-        Item3D npc = FindItem3DByName("NPC")
+        Item2D player = FindItem2DByName("Player")
+        Item2D npc = FindItem2DByName("NPC")
 
-        //output player:GetName()
-        //output npc:GetName()
+        output player:GetName()
+        output npc:GetName()
 
         //Register a keyboard listener to get messages when the user types
         AddKeyboardListener(me)

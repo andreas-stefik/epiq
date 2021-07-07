@@ -1,0 +1,114 @@
+use Libraries.Game.Game
+use Libraries.Game.Scenes.Scene
+use Libraries.System.File
+use Libraries.Interface.Item3D
+use Libraries.Interface.Events.KeyboardListener
+use Libraries.Interface.Events.KeyboardEvent
+use Libraries.Compute.Vector3
+
+/*
+    This is a default class for creating a game in Quorum. Note that the Main 
+    action begins by calling StartGame(), which loads a window a game can 
+    be displayed in. The action CreateGame is where the game should load any 
+    assets, like images to be displayed, frames of animation, or sounds to be
+    played. 
+*/
+class Main is Game, KeyboardListener
+    /* Notice we moved these definitions up here. These are called "fields" 
+       and they are available to be used anywhere in our program.
+    */
+    Item3D player = undefined
+    Item3D npc = undefined
+    /*
+        This action, Main, starts our computer program. In Quorum, programs always
+        begin from Main.
+    */
+    action Main
+        StartGame()
+    end
+
+    /*
+        Inside of this template, we load up a scene from on disk. 
+        The game automatically knows and can read these files.
+    */
+    action CreateGame
+        File file
+        file:SetPath("Scenes/Scene.qs")
+        LoadScene(file)
+        
+        //Get the items from the scene, like the last tutorial
+        //But now we put them in fields up above.
+        player = FindItem3DByName("Player")
+        npc = FindItem3DByName("NPC")
+
+        //Optional: We can make our character not rotate and slow down
+        //with some extra physics calls
+        player:SetLinearDamping(0.1)
+        player:CanRotate(false)
+
+        //Get all of the potions that we added
+        Item3D potion1 = FindItem3DByName("Blue potion 1")
+        Item3D potion2 = FindItem3DByName("Blue potion 2")
+        Item3D potion3 = FindItem3DByName("Blue potion 3")
+        Item3D potion4 = FindItem3DByName("Blue potion 4")
+        Item3D potion5 = FindItem3DByName("Blue potion 5")
+
+        //Hide all of the potions we added
+        potion1:Hide()
+        potion2:Hide()
+        potion3:Hide()
+        potion4:Hide()
+        potion5:Hide()
+
+        //Register a keyboard listener to get messages when the user types
+        AddKeyboardListener(me)
+
+        //We need to tell our game to turn on physics in general.
+        EnablePhysics3D(true)
+        SetGravity3D(0,-10,0)
+    end
+
+    /*
+        The update action is called on every "frame" of animation in a game. This
+        action should be used to do operations on items. So, for example, we 
+        might use this action to change frames of animation, to rotate items, 
+        or to make creatures jump.
+    */
+    action Update(number seconds)
+    end
+
+    /*  When a key is pressed, this code executes.
+        Press CTRL + J (PC) or CMD + J on the word "KeyboardEvent" to jump to 
+        that location and see what code lives there. This is helpful to learn all of
+        the commands. Note that memorizing them is not the norm. 
+     */
+    action PressedKey(KeyboardEvent event)
+        integer code = event:keyCode
+
+        //Use a vector, like in math, to tell our system
+        //how much force to apply to our player in a direction
+        Vector3 v
+        //This is the number of newtons (a unit of force) to apply
+        number amount = 200
+
+        //Use an if statement to apply force for various keys.
+        if code = event:UP
+            v:SetZ(amount)
+        elseif code = event:DOWN
+            v:SetZ(-amount)
+        elseif code = event:LEFT
+            v:SetX(-amount)
+        elseif code = event:RIGHT
+            v:SetX(amount)
+        elseif code = event:SPACE
+            v:SetY(amount)
+        end
+
+        //Use the force
+        player:ApplyForceToCenter(v)
+    end
+
+    /* When a key is released, this code executes */
+    action ReleasedKey(KeyboardEvent event)
+    end
+end
