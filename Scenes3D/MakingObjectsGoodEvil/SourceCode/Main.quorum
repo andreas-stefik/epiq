@@ -99,7 +99,7 @@ class Main is Game, KeyboardListener
         //how much force to apply to our player in a direction
         Vector3 v
         //This is the number of newtons (a unit of force) to apply
-        number amount = 200
+        number amount = 20
 
         //Use an if statement to apply force for various keys.
         if code = event:UP
@@ -111,7 +111,7 @@ class Main is Game, KeyboardListener
         elseif code = event:RIGHT
             v:SetX(amount)
         elseif code = event:SPACE
-            v:SetY(amount)
+            v:SetY(amount*5)
         elseif code = event:Q
             xPlayer = player:GetX()
             zPlayer = player:GetZ()
@@ -126,7 +126,7 @@ class Main is Game, KeyboardListener
             number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
             number distance = math:SquareRoot(xd + zd)
 
-            number maxDistance = 3
+            number maxDistance = 1.5
             if distance < maxDistance and not hasTriggeredQuest
                 output "Help, help! Evil Lord Bunnykins is rampaging across the countryside. 
 If only I had 5 blue potions, I might be able to create an uber potion to strengthen us."

@@ -64,7 +64,7 @@ class Main is Game, KeyboardListener
         number y = player:GetY()
         number z = player:GetZ()
 
-        //this means move by 20 pixels
+        //this means move by 1 meter
         number amount = 1
         if code = event:UP
             player:SetZ(z + amount)

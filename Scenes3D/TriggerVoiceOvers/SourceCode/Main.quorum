@@ -130,7 +130,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         Camera camera = GetCamera3D()
         camera:SetWidth(800)
         camera:SetHeight(600)
-        camera:SetPosition(0, 25, camera:GetPosition():GetZ())
+        camera:SetPosition(0, 15, -20)
         camera:Update()
     end
 
@@ -149,7 +149,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         //how much force to apply to our player in a direction
         Vector3 v
         //This is the number of newtons (a unit of force) to apply
-        number amount = 200
+        number amount = 20
 
         //Use an if statement to apply force for various keys.
         if code = event:UP
@@ -161,7 +161,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         elseif code = event:RIGHT
             v:SetX(amount)
         elseif code = event:SPACE
-            v:SetY(amount)
+            v:SetY(amount*5)
         elseif code = event:F and hasTriggeredQuest //only do this if the quest is triggered
             //set the current smallest distance to the largest possible number
             //then create a placeholder in memory for an Item2D
@@ -240,7 +240,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         i = 0
         repeat while i < goodItems:GetSize()
             Item3D item = goodItems:Get(i)
-            if name = item:GetName() and isPlayer
+            if name = item:GetName() and isPlayer and hasTriggeredQuest
                 potion:Play()
                 Remove(a)
                 itemsFound = itemsFound + 1
@@ -254,7 +254,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         i = 0
         repeat while i < goodItems:GetSize()
             Item3D item = goodItems:Get(i)
-            if name = item:GetName() and isPlayer
+            if name = item:GetName() and isPlayer and hasTriggeredQuest
                 potion:Play()
                 Remove(b)
                 itemsFound = itemsFound + 1

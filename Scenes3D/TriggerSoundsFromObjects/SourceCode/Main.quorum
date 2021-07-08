@@ -130,7 +130,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         //how much force to apply to our player in a direction
         Vector3 v
         //This is the number of newtons (a unit of force) to apply
-        number amount = 200
+        number amount = 20
 
         //Use an if statement to apply force for various keys.
         if code = event:UP
@@ -142,7 +142,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         elseif code = event:RIGHT
             v:SetX(amount)
         elseif code = event:SPACE
-            v:SetY(amount)
+            v:SetY(amount*5)
         elseif code = event:Q
             xPlayer = player:GetX()
             zPlayer = player:GetZ()
