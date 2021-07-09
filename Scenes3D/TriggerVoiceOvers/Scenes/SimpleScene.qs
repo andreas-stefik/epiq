@@ -6,9 +6,9 @@
             "Camera": {
                 "Class": "PerspectiveCamera", 
                 "Field of View": 67.0, 
-                "Position": [0.0, 5.2261826174069945, 1.9369221296335013], 
-                "Direction": [0.0, -0.42261826174069944, 0.9063077870366499], 
-                "Up": [-9.38401049623171E-17, 0.90630778703665, 0.4226182617406995], 
+                "Position": [0.0, 7.0710678118654755, 0.9289321881345254], 
+                "Direction": [0.0, -0.5, 0.8660253882408142], 
+                "Up": [-1.1102230246251565E-16, 0.8660253882408142, 0.5], 
                 "Size": [2260.0, 895.9], 
                 "Far": 1000.0, 
                 "Near": 1.0
@@ -27,7 +27,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 1, 
                     "Color": [0.0, 0.5, 0.0, 1.0], 
-                    "Physics Enabled": false, 
+                    "Physics Enabled": true, 
                     "Responsiveness": 0
                 }, 
                 "3": {
@@ -40,7 +40,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/wall.obj", 
-                    "Physics Enabled": false, 
+                    "Physics Enabled": true, 
                     "Responsiveness": 0
                 }, 
                 "4": {
@@ -53,7 +53,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/wall.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "5": {
                     "Class": "Model", 
@@ -65,7 +65,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/structure_poles.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "6": {
                     "Class": "Model", 
@@ -77,7 +77,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/structure_poles.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "7": {
                     "Class": "Model", 
@@ -149,7 +149,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/structure_wall.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "13": {
                     "Class": "Model", 
@@ -161,7 +161,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/structure_wall.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "14": {
                     "Class": "Model", 
@@ -209,7 +209,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/wallPaint.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "18": {
                     "Class": "Model", 
@@ -221,7 +221,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/wallPaint.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "19": {
                     "Class": "Model", 
@@ -269,7 +269,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/spacekit_2/Models/OBJ format/gate_complex.obj", 
-                    "Physics Enabled": false, 
+                    "Physics Enabled": true, 
                     "Responsiveness": 0
                 }, 
                 "23": {
@@ -282,7 +282,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/wall.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "24": {
                     "Class": "Model", 
@@ -294,7 +294,7 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/structure_wall.obj", 
-                    "Physics Enabled": false
+                    "Physics Enabled": true
                 }, 
                 "25": {
                     "Class": "Model", 
@@ -318,7 +318,109 @@
                     "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
                     "Type": 0, 
                     "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/wallPaint.obj", 
+                    "Physics Enabled": true
+                }, 
+                "27": {
+                    "Class": "Model", 
+                    "Name": "Player", 
+                    "Description": "", 
+                    "Position": [0.0, 0.0, -6.0], 
+                    "Size": [0.4831838011741638, 0.8431839942932129, 0.32999998331069946], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/spacekit_2/Models/OBJ format/alien.obj", 
+                    "Physics Enabled": true, 
+                    "Responsiveness": 2, 
+                    "Mass": 1.0, 
+                    "Friction": 0.1
+                }, 
+                "28": {
+                    "Class": "Model", 
+                    "Name": "NPC", 
+                    "Description": "", 
+                    "Position": [-6.0, 0.0, -6.0], 
+                    "Size": [0.4831838011741638, 0.7931839227676392, 0.32999998331069946], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/spacekit_2/Models/OBJ format/astronautB.obj", 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0
+                }, 
+                "29": {
+                    "Class": "Model", 
+                    "Name": "Blue potion 1", 
+                    "Description": "", 
+                    "Position": [5.0, 0.0, -4.0], 
+                    "Size": [0.2460000067949295, 0.30000001192092896, 0.2460000067949295], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/detail_barrel.obj", 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0
+                }, 
+                "30": {
+                    "Class": "Model", 
+                    "Name": "Blue potion 2", 
+                    "Description": "", 
+                    "Position": [6.0, 0.0, -4.0], 
+                    "Size": [0.2460000067949295, 0.30000001192092896, 0.2460000067949295], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/detail_barrel.obj", 
                     "Physics Enabled": false
+                }, 
+                "31": {
+                    "Class": "Model", 
+                    "Name": "Blue potion 3", 
+                    "Description": "", 
+                    "Position": [7.0, 0.0, -4.0], 
+                    "Size": [0.2460000067949295, 0.30000001192092896, 0.2460000067949295], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/detail_barrel.obj", 
+                    "Physics Enabled": false
+                }, 
+                "32": {
+                    "Class": "Model", 
+                    "Name": "Blue potion 4", 
+                    "Description": "", 
+                    "Position": [5.5, 0.0, -5.0], 
+                    "Size": [0.2460000067949295, 0.30000001192092896, 0.2460000067949295], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/detail_barrel.obj", 
+                    "Physics Enabled": false
+                }, 
+                "33": {
+                    "Class": "Model", 
+                    "Name": "Blue potion 5", 
+                    "Description": "", 
+                    "Position": [6.5, 0.0, -5.0], 
+                    "Size": [0.2460000067949295, 0.30000001192092896, 0.2460000067949295], 
+                    "Scale": [1.0, 1.0, 1.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/retro-medieval-kit-1.0/Models/OBJ format/detail_barrel.obj", 
+                    "Physics Enabled": false
+                }, 
+                "34": {
+                    "Class": "Model", 
+                    "Name": "Red Mouth", 
+                    "Description": "", 
+                    "Position": [0.0, 0.0, 8.0], 
+                    "Size": [0.4831838011741638, 0.7931839227676392, 0.32999998331069946], 
+                    "Scale": [5.0, 5.0, 5.0], 
+                    "Rotation": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0], 
+                    "Type": 0, 
+                    "File": "Resources/Tilesets3D/spacekit_2/Models/OBJ format/astronautA.obj", 
+                    "Physics Enabled": false, 
+                    "Responsiveness": 0
                 }
             }, 
             "Lights": {
