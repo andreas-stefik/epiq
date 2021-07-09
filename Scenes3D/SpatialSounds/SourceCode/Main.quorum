@@ -150,13 +150,9 @@ class Main is Game, KeyboardListener, CollisionListener3D
             i = 0
             repeat while i < goodItems:GetSize()
                 Item3D item = goodItems:Get(i)
-                number itemX = item:GetX()
-                number itemZ = item:GetZ()
-
-                //this is the same equation from before
-                number xd = (xPlayer - itemX) * (xPlayer - itemX)
-                number zd = (zPlayer - itemZ) * (zPlayer - itemZ)
-                number distance = math:SquareRoot(xd + zd)
+                //this distance is calculated using the Vector3 library distance action
+                number distance = v:Distance(player:GetX(),player:GetY(),player:GetZ(),npc:GetX(),npc:GetY(),npc:GetZ())
+    
                 
                 //if it's smaller, maybe it's that one
                 if distance < smallest
@@ -171,14 +167,9 @@ class Main is Game, KeyboardListener, CollisionListener3D
                 output closest:GetName() + " Distance " + smallest
             end
         elseif code = event:Q
-            xNPC = npc:GetX()
-            zNPC = npc:GetZ()
-            
-            //I wrote the distance formula manually, but do this how you wish
-            //It is Square Root((x1 - x2)^2 + (z1 - z2)^2)
-            number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
-            number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
-            number distance = math:SquareRoot(xd + zd)
+            //this distance is calculated using the Vector3 library distance action
+            number distance = v:Distance(player:GetX(),player:GetY(),player:GetZ(),npc:GetX(),npc:GetY(),npc:GetZ())
+
 
             number maxDistance = 100
             if distance < maxDistance and not hasTriggeredQuest
@@ -210,34 +201,39 @@ If only I had 5 blue potions, I might be able to create an uber potion to streng
         This tells us what items are colliding. 
     */
     action BeginCollision(CollisionEvent3D event)
-        Item3D a = event:GetItemA()
-        Item3D b = event:GetItemB()
+        if event:GetItemA() is Item3D
+            Item3D character = cast(Item3D,event:GetItemA())
+            if character:Equals(player)
+                Item3D a = event:GetItemA()
+                Item3D b = event:GetItemB()
 
-        //remove the potions and play a sound
-        //if a is a potion and b is the player
-        text name = a:GetName()
-        boolean isPlayer = b:GetName() = "Player"
-        i = 0
-        repeat while i < goodItems:GetSize()
-            Item3D item = goodItems:Get(i)
-            if name = item:GetName() and isPlayer
-                potion:Play()
-                Remove(a)
+                //remove the potions and play a sound
+                //if a is a potion and b is the player
+                text name = a:GetName()
+                boolean isPlayer = b:GetName() = "Player"
+                i = 0
+                repeat while i < goodItems:GetSize()
+                    Item3D item = goodItems:Get(i)
+                    if name = item:GetName() and isPlayer
+                        potion:Play()
+                        Remove(a)
+                    end
+                    i = i + 1
+                end
+        
+                //if b is the potion and a is the player
+                name = b:GetName()
+                isPlayer = a:GetName() = "Player"
+                i = 0
+                repeat while i < goodItems:GetSize()
+                    Item3D item = goodItems:Get(i)
+                    if name = item:GetName() and isPlayer
+                        potion:Play()
+                        Remove(b)
+                    end
+                    i = i + 1
+                end
             end
-            i = i + 1
-        end
-
-        //if b is the potion and a is the player
-        name = b:GetName()
-        isPlayer = a:GetName() = "Player"
-        i = 0
-        repeat while i < goodItems:GetSize()
-            Item3D item = goodItems:Get(i)
-            if name = item:GetName() and isPlayer
-                potion:Play()
-                Remove(b)
-            end
-            i = i + 1
         end
     end
 end

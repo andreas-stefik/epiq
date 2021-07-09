@@ -113,18 +113,8 @@ class Main is Game, KeyboardListener
         elseif code = event:SPACE
             v:SetY(amount*5)
         elseif code = event:Q
-            xPlayer = player:GetX()
-            zPlayer = player:GetZ()
-
-            xNPC = npc:GetX()
-            zNPC = npc:GetZ()
-
-            Math math
-            //I wrote the distance formula manually, but do this how you wish
-            //It is Square Root((x1 - x2)^2 + (z1 - z2)^2)
-            number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
-            number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
-            number distance = math:SquareRoot(xd + zd)
+            //this distance is calculated using the Vector3 library distance action
+            number distance = v:Distance(player:GetX(),player:GetY(),player:GetZ(),npc:GetX(),npc:GetY(),npc:GetZ())
 
             number maxDistance = 1.5
             if distance < maxDistance and not hasTriggeredQuest

@@ -112,7 +112,7 @@ class Main is Game, KeyboardListener, CollisionListener3D
         AddCollisionListener(me)
 
         //for fun make the screen bigger
-        SetScreenSize(1600,1200, false)
+        //SetScreenSize(1600,1200, false)
 
         //We need to tell our game to turn on physics in general.
         EnablePhysics3D(true)
@@ -127,11 +127,11 @@ class Main is Game, KeyboardListener, CollisionListener3D
     */
     action Update(number seconds)
         music:Stream()
-        Camera camera = GetCamera3D()
-        camera:SetWidth(800)
-        camera:SetHeight(600)
-        camera:SetPosition(0, 15, -20)
-        camera:Update()
+        //Camera camera = GetCamera3D()
+        //camera:SetWidth(800)
+        //camera:SetHeight(600)
+        //camera:SetPosition(0, 15, -20)
+        //camera:Update()
     end
 
     /*  When a key is pressed, this code executes.
@@ -172,14 +172,9 @@ class Main is Game, KeyboardListener, CollisionListener3D
             i = 0
             repeat while i < goodItems:GetSize()
                 Item3D item = goodItems:Get(i)
-                number itemX = item:GetX()
-                number itemZ = item:GetZ()
-
-                //this is the same equation from before
-                number xd = (xPlayer - itemX) * (xPlayer - itemX)
-                number zd = (zPlayer - itemZ) * (zPlayer - itemZ)
-                number distance = math:SquareRoot(xd + zd)
-                
+                //this distance is calculated using the Vector3 library distance action
+                number distance = v:Distance(player:GetX(),player:GetY(),player:GetZ(),npc:GetX(),npc:GetY(),npc:GetZ())
+    
                 //if it's smaller, maybe it's that one
                 if distance < smallest
                     smallest = distance

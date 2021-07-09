@@ -64,16 +64,21 @@ class Main is Game, KeyboardListener
         number y = player:GetY()
         number z = player:GetZ()
 
-        //this means move by 1 meter
+        //this means move by 1 meter WITHOUT using the physics system. All the following answer key projects will use 
+        // the physics ON option with that keyboard set up.
         number amount = 1
-        if code = event:UP
+        if code = event:W
             player:SetZ(z + amount)
-        elseif code = event:DOWN
+        elseif code = event:S
             player:SetZ(z - amount)
-        elseif code = event:LEFT
+        elseif code = event:A
             player:SetX(x - amount)
-        elseif code = event:RIGHT
+        elseif code = event:D
             player:SetX(x + amount)
+        elseif code = event:SPACE
+            player:SetY(y + amount)
+        elseif code = event:X
+            player:SetY(y - amount)
         end
     end
 

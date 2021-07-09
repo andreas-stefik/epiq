@@ -139,18 +139,8 @@ class Main is Game, KeyboardListener, CollisionListener3D
         elseif code = event:SPACE
             v:SetY(amount*5)
         elseif code = event:Q
-            xPlayer = player:GetX()
-            zPlayer = player:GetZ()
-
-            xNPC = npc:GetX()
-            zNPC = npc:GetZ()
-
-            Math math
-            //I wrote the distance formula manually, but do this how you wish
-            //It is Square Root((x1 - x2)^2 + (z1 - z2)^2)
-            number xd = (xPlayer - xNPC) * (xPlayer - xNPC)
-            number zd = (zPlayer - zNPC) * (zPlayer - zNPC)
-            number distance = math:SquareRoot(xd + zd)
+            //this distance is calculated using the Vector3 library distance action
+            number distance = v:Distance(player:GetX(),player:GetY(),player:GetZ(),npc:GetX(),npc:GetY(),npc:GetZ())
 
             number maxDistance = 3
             if distance < maxDistance and not hasTriggeredQuest
@@ -179,10 +169,15 @@ If only I had 5 blue potions, I might be able to create an uber potion to streng
         This tells us what items are colliding. 
     */
     action BeginCollision(CollisionEvent3D event)
-        Item3D a = event:GetItemA()
-        Item3D b = event:GetItemB()
+        if event:GetItemA() is Item3D
+            Item3D character = cast(Item3D,event:GetItemA())
+            if character:Equals(player)
+                Item3D a = event:GetItemA()
+                Item3D b = event:GetItemB()
+                output a:GetName()
+                output b:GetName()
+            end
+        end
 
-        output a:GetName()
-        output b:GetName()
     end
 end
